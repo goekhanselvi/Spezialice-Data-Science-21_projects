@@ -1,0 +1,1509 @@
+13.04.2025 18:41 - Mesajlar ve aramalar uçtan uca şifrelidir. Yalnızca bu sohbetteki kişiler bu içerikleri okuyabilir, dinleyebilir veya paylaşabilir. Daha fazla bilgi edinin.
+13.04.2025 20:10 - +1 (310) 954-6406: 4. gunun videosu yayinlanmistir. https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5ODYw/details
+14.04.2025 11:40 - +1 (310) 954-6406: 2 haftadir hicbir faaliyette bulunmayan, asistanlarimizin email ve mesajlarina  cevap vermeyen ve derslere katilmayan 21 kisi derslerden uzaklastirilmis ve ders materyallerine erisimleri engellenmistir.
+14.04.2025 17:49 - GS: Bu mesajı sildiniz
+14.04.2025 17:54 - GS: ‎IMG-20250414-WA0003.jpg (dosya ekli)
+resimde görüldügü gibi yaptim ama hala hata veriyor. ne yapmam gerektigiyle ilgli yazabileek varmi?
+14.04.2025 17:56 - +1 (310) 954-6406: Gerekli paketler kurulmamis. 
+pip install plotly
+14.04.2025 17:56 - GS: onuda yaptim hocam ama yine hata veriyor
+14.04.2025 17:56 - +90 544 306 80 49: Plotly yazmalısınız
+14.04.2025 17:57 - +90 544 306 80 49: l eksik
+14.04.2025 17:57 - +90 542 502 40 59: Üstte plotly yanlış yazılmış
+14.04.2025 17:57 - +1 (310) 954-6406: Ploty yazmissiniz plotly degil <Bu mesaj düzenlendi>
+14.04.2025 17:57 - Ömer Can Assistant: import plotly.express as px
+14.04.2025 17:57 - GS: 😊 artik gözler görmez oldu , mola Zamani sagolun Zaferhocam
+14.04.2025 17:58 - GS: sizede ömer hocam
+14.04.2025 18:32 - GS: ‎IMG-20250414-WA0005.jpg (dosya ekli)
+buradaki sorunu cözemiyorum
+14.04.2025 18:35 - +1 (310) 954-6406: Data sosyasini nerede okudunuz
+14.04.2025 18:35 - +1 (310) 954-6406: df yok diyor
+14.04.2025 18:36 - GS: simdiye kadar df de bir sorun cikarmadi, peki bu df yi nasil okutmam gerekiyor
+14.04.2025 18:36 - GS: kernel Restart da yaptim ama calismiyor bir türlü
+14.04.2025 18:37 - GS: poe ye soruyorum, df = pd.read_csv('C:/path/to/your/folder/corona_dat.csv')  # Buradaki yolu doğru şekilde güncelleyin  böyle bisey diyor
+14.04.2025 18:40 - +90 506 025 54 26: df=pd.read_csv('dosyaadi') demeniz gerekiyor dosyadi kısmında hangi dosyayı okuyacaksanız o dosyanın adını yazmalısınız bu kod ile csv uzantılı dosyanızı okuyarak df degiskenine atamış olursunuz
+14.04.2025 18:41 - GS: hangi dosyayi okutmam gerekiyor
+14.04.2025 18:41 - GS: dosyaadi dedigi ne?
+14.04.2025 18:41 - +90 506 025 54 26: Hangi dosya ile çalışacaksız onu okutmalisiniz ekran görüntüsü ile onu anlayamıyorum
+14.04.2025 18:41 - +1 (503) 550-6327: Corona.csv dosyayıyla çalıştığınız notebook aynı dosya altında olmalı
+14.04.2025 18:43 - GS: müsait olan baglanabilirmi?
+14.04.2025 18:43 - GS: anydesk hazir
+14.04.2025 18:45 - +1 (503) 550-6327: Şimdi size fotoğraflar atacağım
+14.04.2025 18:45 - +90 546 970 79 68: Merhaba ekran görüntüsü atarmısınız ilk satırdan itibaren veya üzerinde çalışmak istediğiniz dosyayı indirmemiş olabilir misiniz
+14.04.2025 18:46 - GS: ‎IMG-20250414-WA0006.jpg (dosya ekli)
+14.04.2025 18:46 - +1 (503) 550-6327: <Medya dahil edilmedi>
+Önce çalıştığımız her oroje için folder dosya oluşturduk
+14.04.2025 18:46 - GS: buralar tamam
+14.04.2025 18:47 - GS: Bu mesajı sildiniz
+14.04.2025 18:47 - GS: Bu mesajı sildiniz
+14.04.2025 18:49 - +1 (503) 550-6327: <Medya dahil edilmedi>
+Sonrada çalıştığımız data dosyası burda cars.xls ve hr_data.csv data dosyası
+Yukarda gördükkerinizde cluster.ipyng. Gibi olanlarda jupyter notebook dediğimiz çalıştığımız kod yazdığımız  file dediğimiz kısımlar
+14.04.2025 18:50 - +1 (503) 550-6327: Benim ders sırasında başıma geldi.
+14.04.2025 18:52 - +90 542 502 40 59: Df tanımladığınız kısımda hata olabilir mi
+14.04.2025 18:53 - +1 (503) 550-6327: Kodun fotosunu gönderseniz ya bir bakalım
+14.04.2025 18:55 - +1 (503) 550-6327: Hatada df tanımlamadınız yazıyor ya okuyamamış
+14.04.2025 18:57 - GS: corona_dat.csv dosyasi bu dizinin icinde C:\Users\P53\Desktop\Yapay Zeka Kursu\Tag2, suan benim calistigim dizin C:\Users\P53\Desktop\Yapay Zeka Kursu\Tag3.
+14.04.2025 18:57 - GS: Bu mesajı sildiniz
+14.04.2025 18:57 - GS: yolu yukaridaki gibi tanittim ama yine hata veriyor
+14.04.2025 18:58 - GS: corona_dat.csv dosyasina simdi niye ihtiyac duyduk onuda anlamadim
+14.04.2025 18:58 - +1 (503) 550-6327: Slash var ya onları çift koyun
+14.04.2025 18:58 - +1 (503) 550-6327: Çünkü 1 slash koyduğunuzda python onu escape carakteri olrak görüyor
+14.04.2025 18:59 - +1 (503) 550-6327: Size iki foto daha göndereceğim örnek
+14.04.2025 18:59 - GS: Bu mesajı sildiniz
+14.04.2025 19:00 - +1 (503) 550-6327: Bu mesaj silindi
+14.04.2025 19:01 - +1 (503) 550-6327: Bu mesaj silindi
+14.04.2025 19:01 - GS: dedigin gibi yaptim
+14.04.2025 19:01 - +1 (503) 550-6327: Bu mesaj silindi
+14.04.2025 19:02 - GS: maalesef
+14.04.2025 19:07 - +90 542 502 40 59: import plotly.express as px
+import pandas as pd
+df=pd.read_excel('cars.xls')
+px.bar(df, x='Make', y='Price', color='Make')
+14.04.2025 19:08 - +1 (503) 550-6327: Ben daha önce bu yöntemle okudum
+14.04.2025 19:08 - +90 542 502 40 59: şu sırayla denediğimde ben de işe yaradı bir de siz deneyin bakalım
+14.04.2025 19:09 - GS: Bu mesajı sildiniz
+14.04.2025 19:10 - GS: ‎IMG-20250414-WA0015.jpg (dosya ekli)
+14.04.2025 19:11 - GS: simdi oldu, tesekkür ederim
+14.04.2025 19:12 - +90 542 502 40 59: Rica ederim
+14.04.2025 22:52 - +90 505 677 44 70: Bu titanic ödevinde iki farklı dosya verilmiş. Bİz önceden aynı dosyanın içindeki verileri train ve test olarak ayırıyorduk. Fakat bu sefer ayrı olarak geldiği için ve "ttest.csv" dosyasında "Survived" sütünü olmadığı için sürekli hata alıyorum. Bilgisi olan varsa yardım edebilir mi
+14.04.2025 22:55 - +1 (310) 954-6406: Train dosyasi ile modeli egitip  test dosyasindaki survived sutununu tahmin edeceksiniz
+14.04.2025 22:55 - +90 505 677 44 70: hocam başarı oranı hesaplanmıyor
+14.04.2025 22:56 - +1 (503) 550-6327: Bu mesaj silindi
+14.04.2025 22:56 - +90 501 131 94 01: Bu mesaj silindi
+14.04.2025 22:56 - +90 505 677 44 70: anladım teşekkürler bir deneyeceğim
+15.04.2025 00:13 - +90 505 915 10 87: Arkadaşlar müsait asistan arkadaş var mı
+15.04.2025 00:13 - +1 (310) 954-6406: Basari oranini Kaggle.com hesaplayacak. Test datasindaki verilerden survived sutununu tahmib edeceksiniz ce kaggle.com a gidip sonucu yukleyeceksiniz ve basari orani orada cikacak
+15.04.2025 00:14 - +90 505 915 10 87: cts dersi telafi etmeye çalışıyorum
+15.04.2025 00:14 - +90 505 915 10 87: <Medya dahil edilmedi>
+15.04.2025 00:14 - +90 505 915 10 87: Böyle bir hata alıyorum
+15.04.2025 00:17 - +90 543 810 15 50: df tanımlanmamış , df=pd.read  komutuyla veriyi tanıtmanız gerekiyor
+15.04.2025 11:12 - GS: ‎IMG-20250415-WA0002.jpg (dosya ekli)
+residuals=y_test-tahmin     kodu bende hata veriyor, Yardim edebilecek varmi?
+15.04.2025 11:14 - GS: ‎IMG-20250415-WA0003.jpg (dosya ekli)
+simdi buna dönüstü hata
+15.04.2025 11:15 - +90 546 970 79 68: Train test split yaptınız mı
+15.04.2025 11:15 - +90 501 131 94 01: Bu mesaj silindi
+15.04.2025 11:16 - Ömer Can Assistant: Kernel restart and run all yapın
+15.04.2025 11:17 - Ömer Can Assistant: Eğer yine aynı hatayı veriyorsa train test split yaptığınız kısmı atlamissniz veya yanlıs yazmisisniz
+15.04.2025 11:20 - GS: derste anlatilanla yapiyorum, aslinda herseyi sirasiyla yaptim
+15.04.2025 11:20 - GS: Bu mesajı sildiniz
+15.04.2025 11:21 - GS: x_train,x_test,y_train,y_test=train_test_split(x,y, test_size=0.20, random_state=42)     bundan bahsediyorsaniz evet
+15.04.2025 11:24 - Ömer Can Assistant: any desk açın lütfen
+15.04.2025 13:35 - Ömer Can Assistant: https://www.kaggle.com/competitions/titanic
+
+titanic projesi için buradan yardım alabilirsiniz. Aynı zamanda tahmin sonucunuzu da bu siteye yüklerek doğruluk oranınızı öğrenebilirsiniz
+15.04.2025 13:40 - Ömer Can Assistant: Titanic ödevi ipucu:
+iki dosyayı python ortamında read_csv ile okuyun. daha sonra ikisini concat fonksiyonu ile birleştirin. birleştirmemizin sebebi iki dosyaya da ayrı ayrı veri manipülasyonu yapmak yerine tek bir dosyada birleştirerek kolaylık sağlamak. veri manipülasonlarını (boş veri doldurma(Survived sütunu hariç) feature engineering , get dummies) uygulandıktan sonra veriyi tekrar train ve test olarak iki data frame e ayırın. bunu da birleşmiş dosyanın ilk 891 ini train değişkenine 891 den sonrasını test değişkenine atarak yapabilirsiniz. veya Survived sütunu dolu olanları train e boş olanları test e atabilirsiniz. train i x ve y olarak ayırıp fit e x ve y yi vereceksiniz. test datasını predict edeceksiniz. sonucu csv olarak kayıt ederek kaggle da titanic sayfasında submit edip doğruluk skorunuzu göreceksiniz
+not: Bu bir classification projesidir <Bu mesaj düzenlendi>
+15.04.2025 13:41 - +90 505 677 44 70: Hocam ortalama kaç gelmeli doğruluk oranı
+15.04.2025 13:42 - Ömer Can Assistant: kaggle da %70 üstü kabulümüz
+15.04.2025 13:42 - +90 505 677 44 70: tamamdır hocam
+15.04.2025 13:45 - +90 551 163 43 06: hocam notebook'da yapınca doğruluk oranı %98,65 kaggle'da %73,68 oluyor ikisi arasında neden bu şekilde bir farklılık var?
+15.04.2025 13:49 - Ömer Can Assistant: test datasını daha zorlu yapmış olmaları muhtemel.
+15.04.2025 21:14 - +90 505 915 10 87: asistan arkadaşlardan müsait olan var mı?
+15.04.2025 21:21 - +90 530 261 02 11: müsaitim
+15.04.2025 21:21 - +90 530 261 02 11: buyrun
+15.04.2025 21:39 - GS: ‎IMG-20250415-WA0009.jpg (dosya ekli)
+zafer hocanin yaptigiyla benim yaptigim farkli cikiyor neden acaba?
+15.04.2025 21:39 - GS: ‎IMG-20250415-WA0010.jpg (dosya ekli)
+buda benim yaptigim
+15.04.2025 21:40 - +90 501 131 94 01: df.head()
+X.head()
+15.04.2025 21:41 - GS: degismedi
+15.04.2025 21:42 - GS: derste yapilan da zipcode Lari False oluyor ama benim yaptigim hala rakamsal degerler gösteriyor
+15.04.2025 21:42 - +90 544 770 76 07: Hocam iyi aksamlar ders kayıtları izlerken chat kısmına yazılanları da görebiliyor muyuz
+15.04.2025 21:42 - GS: evet
+15.04.2025 21:43 - +90 542 286 11 32: videonun olduğu yerde chatfile.txt dosyasından ulaşabilirsiniz
+15.04.2025 21:44 - +90 544 770 76 07: tesekkurler suan eriştim
+15.04.2025 21:44 - +1 (310) 954-6406: Bu mesaj silindi
+15.04.2025 21:44 - GS: drop yaptigimiz degerler siliniyor ama False görünenler bende yine rakamsal deger olarak kaliyor
+15.04.2025 21:44 - +1 (310) 954-6406: Anaconda eski version olabilir.
+15.04.2025 21:45 - GS: hocam kursun basinda yükledim
+15.04.2025 21:45 - +1 (310) 954-6406: True False ve 1-0 bilgisayar icin ayni seyler
+15.04.2025 21:45 - GS: ‎IMG-20250415-WA0011.jpg (dosya ekli)
+ama görünüm bu hocam
+15.04.2025 21:46 - GS: ‎IMG-20250415-WA0012.jpg (dosya ekli)
+buda sizin yaptiginiz
+15.04.2025 21:46 - +1 (310) 954-6406: Getdummies
+15.04.2025 21:46 - +1 (310) 954-6406: Atlanissiniz
+15.04.2025 21:47 - GS: ‎IMG-20250415-WA0013.jpg (dosya ekli)
+15.04.2025 22:01 - Ömer Can Assistant: Zipcode u category e cevirdigimiz kodu yazmamış olabilirsiniz
+15.04.2025 22:01 - Ömer Can Assistant: Hastanedeydim eve yeni geçiyorum yarım saate bilgisayarınıza bağlanıp çözeceğim
+15.04.2025 22:04 - +1 (310) 954-6406: x=pd.get_dummies(x,drop_first=True)
+15.04.2025 22:12 - GS: bekliyorum hocam
+15.04.2025 22:37 - Ömer Can Assistant: https://michigantech.zoom.us/j/82260758498
+15.04.2025 22:37 - Ömer Can Assistant: hatası olanlar katılabilir
+16.04.2025 09:43 - GS: müsait olan asistan arkadas varmi?
+16.04.2025 09:44 - +90 542 286 11 32: müsaitim
+16.04.2025 10:56 - GS: arkadaslar pazar günki derste zafer hocanin 120. satirdaki uzun kod kümesini nasil bulabilirim?
+16.04.2025 10:57 - Ömer Can Assistant: fotoğrafını atar mısınz
+16.04.2025 10:57 - GS: ‎IMG-20250416-WA0002.jpg (dosya ekli)
+burdan asagisi da var hocam
+16.04.2025 10:58 - GS: baya kalabalik bir kod kümesi
+16.04.2025 10:59 - +90 544 770 76 07: <Medya dahil edilmedi>
+16.04.2025 10:59 - +90 544 770 76 07: 3 noktaya tıkladıgım zaman bazı dosyalarda indir secenegi cikmiyor ne yapmam lazim
+16.04.2025 11:00 - Ömer Can Assistant: ‎classification.txt (dosya ekli)
+classification.txt
+16.04.2025 11:00 - Ömer Can Assistant: yeni pencerede aç demelisiniz
+16.04.2025 11:00 - Ömer Can Assistant: açılan yeni pencerede indirme butonunu görebilirsiniz
+16.04.2025 11:00 - +90 544 770 76 07: teşekkür ederim oldu
+16.04.2025 11:00 - Ömer Can Assistant: rica ederim iyi çalışmalar
+16.04.2025 11:01 - Ömer Can Assistant: attığım txt dosyasını indirerek içinden alabilirsiniz kodu
+16.04.2025 11:01 - GS: süpersin hocam
+16.04.2025 11:39 - ‎+49 160 99066662 bu grubun davet bağlantısıyla katıldı
+16.04.2025 12:53 - +90 536 817 24 31: hoam concat ile birleştirmeyi bu şekilde mi yapacağız ??
+
+df = pd.concat([df1, df2], axis=0)
+16.04.2025 12:55 - +90 536 817 24 31: df = pd.concat([df1, df2], axis=1) bunu da yapmam gerekecek mi ?
+16.04.2025 13:07 - Ömer Can Assistant: df=pd.concat([df1,df2])
+
+bu yeterli
+16.04.2025 13:15 - ‎+49 160 99066663 bu grubun davet bağlantısıyla katıldı
+16.04.2025 14:12 - Ömer Can Assistant: 1. Projenin amacını ve içeriğini anla
+👉 Proje neyi hedefliyor? Regresyon, sınıflandırma veya kümeleme problemi mi? Bu belirlenmeli.
+
+2. Veriyi oku ve incele (EDA)
+👉 pandas ile veriyi içe aktar, df.info(), df.describe() ve df.isnull().sum() gibi komutlarla genel durumu gözlemle.
+
+3. Modelde kullanmak için uygun sütunları belirle
+👉 Hedef değişken (target) dışındaki anlamlı ve modelle ilişkili sütunları seç.
+
+4. Kategorik (object) sütunlardan sayısala çevrilebilecek olanları dönüştür
+👉 Örneğin: yaş gibi sayılar string olarak girildiyse bunları numeric'e çevirmelisin.
+
+5. Veri manipülasyonları yap (eksik değerleri doldur, hatalı verileri düzelt)
+👉 fillna(), replace(), str.strip() gibi işlemlerle veri temizliği sağla.
+
+6. Feature Engineering (özellik mühendisliği) uygula
+👉 Yeni sütunlar üret.
+
+7. Kategorik değişkenlere get_dummies uygula (One-hot encoding)
+👉 Modelin anlayabilmesi için pd.get_dummies() ile kategorik verileri sayısallaştır.
+
+8. Veriyi X ve y olarak ayır (regresyon/sınıflandırma) veya sadece X (kümeleme)
+👉 X: giriş verileri, y: hedef değişken. Kümeleme yapacaksan sadece X yeterli.
+
+9. Modeli eğit ve tahmin et (fit-predict)
+👉 Seçilen modele göre model.fit(X_train, y_train) ve model.predict(X_test) işlemlerini uygula.
+
+10. Modelin doğruluk oranını ölç
+👉 Sınıflandırma için accuracy_score, regresyon için r2_score, mean_squared_error gibi metriklerle performansı değerlendir.
+
+projeleri çözerken bu adımları takip edebilirsiniz. Adım adım ilerlerseniz takılmazsınız.
+16.04.2025 21:10 - Ömer Can Assistant: 19 Nisan'da yeni açılacak yapay zeka kampımıza kayıt olmasını istediğiniz arkadaşlarınızla bu başvuru formunu paylaşabilirsiniz.
+
+ https://tinyurl.com/aiapp25 <Bu mesaj düzenlendi>
+17.04.2025 01:58 - +90 530 261 02 11: https://www.youtube.com/shorts/I5OKXUs6ybU
+17.04.2025 11:22 - Ömer Can Assistant: Değerli Yapay Zeka Uzmanı Adayları:
+
+Yarın 21:30 da sizinle beraber titanic  ödevini çözmeyi teklif ediyorum. Lütfen ankete katılınız.
+17.04.2025 11:23 - Ömer Can Assistant: ANKET:
+Cuma 21:30 Titanic ödevi çözümüne:
+SEÇENEK: katılacağım (‎20 oy)
+SEÇENEK: katılamayacağım (‎2 oy)
+
+17.04.2025 11:26 - +90 544 804 45 52: Ekran paylaşımı ile aldığım hata için yardım olabilecek asistan arkadaş var mi
+17.04.2025 11:29 - +90 530 261 02 11: müsaitim buyrun
+17.04.2025 11:29 - +90 530 261 02 11: bağlanabilirseniz bakalım beraber
+17.04.2025 11:29 - +90 530 261 02 11: link gönderiyorm
+17.04.2025 11:29 - +90 544 804 45 52: Memnun olurum
+17.04.2025 13:05 - GS: ttest projesine nasil baslamak icin hangi modeli baz almaliyim
+17.04.2025 13:05 - GS: classification or Regression or clustering
+17.04.2025 13:10 - Ömer Can Assistant: titanicten bahsediyorsanız classification
+17.04.2025 18:51 - +90 553 820 79 09: Merhabalar iyi akşamlar. Asistan arkadaşlardan müsait olan var mı acaba? Kısa bir soru sorucam
+17.04.2025 18:53 - +90 542 286 11 32: Merhaba,  musaitim
+17.04.2025 19:04 - +1 (864) 867-9417: Iris assignment icin bir github repo var mi?
+17.04.2025 19:06 - +90 543 810 15 50: <Medya dahil edilmedi>
+pd.to_datetime() koduyla sütunu datetime formatına çeviriyorum ama hala bu hatayı alıyorum bi kaç farklı yol denedim ama hiç biri olmadı
+17.04.2025 20:09 - +1 (310) 954-6406: yazdigniz kodun ekran resmini atarmisiniz
+17.04.2025 20:11 - +90 543 810 15 50: <Medya dahil edilmedi>
+Buyrun hocam
+17.04.2025 20:13 - +1 (310) 954-6406: <Medya dahil edilmedi>
+17.04.2025 20:13 - +1 (310) 954-6406: Sondaki .dt gereksiz
+17.04.2025 20:14 - +90 543 810 15 50: Oldu hocam teşekkür ederim
+17.04.2025 20:15 - +1 (310) 954-6406: veya data['Recency'] = (datetime.now().date() - data['PurchaseDate'].dt.date).dt.days
+17.04.2025 20:15 - +1 (310) 954-6406: hata aldiiginizde kodu kopyalayip poe.com a yapistirip bu kodda yanlis nedir veya dogrusunu yaz diyerek cevap alabilirsiniz
+17.04.2025 20:16 - +90 543 810 15 50: Poe.com bu kodun aynısını verdi ama bu kod da aynı hatayı veriyor hocam
+17.04.2025 20:17 - +90 538 496 68 47: <Medya dahil edilmedi>
+17.04.2025 20:17 - +90 538 496 68 47: <Medya dahil edilmedi>
+17.04.2025 20:17 - +90 538 496 68 47: <Medya dahil edilmedi>
+17.04.2025 20:17 - +90 538 496 68 47: <Medya dahil edilmedi>
+17.04.2025 20:19 - +90 538 496 68 47: Hocam ben 3. Ders tekrarını yaparken veri tabanı sorunu aldım..ne yapmalıyım…
+17.04.2025 20:21 - Ömer Can Assistant: Şimdilik bu kodu atlayın versiyonunuz yüzünden oluyor ben doğru versiyonu öğrenince bilgisayarınıza bağlanıp çözeceğim kodlari yazmaya devam edin
+17.04.2025 20:22 - +90 538 496 68 47: Teşekkür ederim…
+18.04.2025 04:41 - +1 (503) 550-6327: Bende katılacağın
+18.04.2025 13:12 - +90 507 873 38 56: <Medya dahil edilmedi>
+Merhabalar, Multiple Linear Regression ödevinde grafik yapmaya çalışırken y_test bu şekilde oluyor, nasıl çözebilirim?
+18.04.2025 13:14 - Ömer Can Assistant: plt.figure(figsize=(10, 6))
+plt.plot(results.index, results['Actual'], label='Actual', color='b', marker='o')
+plt.plot(results.index, results['Predicted'], label='Predicted', color='r', marker='x')
+plt.title('Sales: Actual vs Predicted')
+plt.xlabel('Index')
+plt.ylabel('Sales')
+plt.legend()
+plt.grid(True)
+
+örnek kod
+plt.show()
+18.04.2025 13:14 - Ömer Can Assistant: indexlerini de verirseniz çözülecektir.
+18.04.2025 13:16 - Ömer Can Assistant: <Medya dahil edilmedi>
+bir data frame e çevirmeniz gerekiyor önce
+18.04.2025 13:18 - +90 507 873 38 56: tamamdır hemen deniyorum, teşekkür ederim
+18.04.2025 18:56 - +90 536 817 24 31: Hocam Farklı bilgisayarlarda çalışmak zorunda kalıyorum bazen. Onedrive üzerinden dosyaları görebiliyorum. Buradan calismamda bi sakınca var mı?
+Senkronizasyonda vs sorun yaşar mıyım?
+18.04.2025 19:02 - +90 536 817 24 31: Yani dosyaların özel bir durumundan dolayı bir senkronizasyon sorunu.
+18.04.2025 19:55 - +90 542 502 40 59: Ben dersler başladığından beri onedrive kullanıyorum bir sorun yaşamadım
+18.04.2025 20:04 - +90 536 817 24 31: Çok teşekkürler.
+18.04.2025 20:09 - +90 542 502 40 59: Rica ederim
+18.04.2025 20:26 - +90 546 970 79 68: Hocam bugün çözüm yapacakmıyız
+18.04.2025 20:26 - Ömer Can Assistant: https://michigantech.zoom.us/j/82260758498
+
+titanic çözümü için bu linkten katılabilirsiniz
+18.04.2025 20:32 - +1 (864) 867-9417: Omer hoca bu meeting recorded olacak mi?
+18.04.2025 20:34 - Ömer Can Assistant: evet olacak
+18.04.2025 22:51 - +90 530 261 02 11: ‎Chatgpt.vcf (dosya ekli)
+18.04.2025 22:52 - +90 530 261 02 11: Chatgpt ile watsupdan yazışabilirsiniz
+18.04.2025 22:53 - +90 538 496 68 47: tşkr ederim
+18.04.2025 23:32 - Ömer Can Assistant: https://michigantech.zoom.us/rec/share/2sXTl1TewtlNAGRFuDgA3ItD87VgwHnJ5WpkUgA8AcqVvs5jCJnV6gPycfVrVlIn.TcIxnSJSdzVEeouO
+Passcode: $*t!F8A6
+18.04.2025 23:32 - Ömer Can Assistant: Titanic çözümü ders kaydına buradan ulaşabilirsiniz
+19.04.2025 05:55 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+19.04.2025 06:12 - +90 536 395 74 64: Bu mesaj silindi
+19.04.2025 06:48 - Ömer Can Assistant: Zoom a iPhone ismi ile veya kısaltmalarla katılan katılımcılarımız var. Kimlerin katıldığını gormek istiyoruz. O yüzden lütfen isminizle zooma giriş yapınız. Teşekkürler
+19.04.2025 07:24 - +90 538 496 68 47: boşta asistan varsa bağlanabilir mi
+19.04.2025 10:55 - +90 505 915 10 87: arkadaşlar bir asistan bakabilir mi
+19.04.2025 10:55 - +90 505 915 10 87: <Medya dahil edilmedi>
+19.04.2025 10:56 - +90 530 261 02 11: hata satırı okunmuyor
+19.04.2025 10:59 - Ömer Can Assistant: Çözdük
+19.04.2025 11:08 - +90 505 915 10 87: Müsait arkadaş var mı?
+19.04.2025 11:08 - +90 505 915 10 87: 2 dakika baksak
+19.04.2025 11:09 - +90 505 915 10 87: <Medya dahil edilmedi>
+19.04.2025 11:09 - +90 505 915 10 87: eksik kodu beraber tamamlasak
+19.04.2025 11:09 - Ömer Can Assistant: Tüm kodlar chatten atıldı
+19.04.2025 11:10 - +90 505 915 10 87: bilgisayarda olmadığı için indiren arakdaşlar buradan paylaşabilir mi
+19.04.2025 11:14 - Ömer Can Assistant: ‎ComputerVisonwithDL.ipynb (dosya ekli)
+ComputerVisonwithDL.ipynb
+19.04.2025 11:54 - Ömer Can Assistant: mola sona erdi
+19.04.2025 13:27 - +90 505 783 41 16: Colab da yaptığımız bölümde ufak bi eksiğim var. bakabilir miyiz
+19.04.2025 13:50 - +1 (310) 954-6406: https://www.karar.com/yazarlar/zafer-acar/yapay-zekanin-yalani-1587637
+19.04.2025 14:38 - +90 544 770 76 07: Bu mesaj silindi
+19.04.2025 15:21 - GS: Hocam yapay zeka zaten ögrenen bir teknoloji olduguna göre kendi kendine yalan söylemeyi ögrenemezmi?
+19.04.2025 17:17 - +90 544 770 76 07: <Medya dahil edilmedi>
+19.04.2025 17:18 - +90 544 770 76 07: Merhabalar bu problemin çözümünü bilen var mı sabah aldığım bir hata karşısında anakondayı sildim tekrar yükledim ama bilgisayara kurarken sorun yaşıyorum
+19.04.2025 17:21 - +90 551 163 43 06: yükleme konumunu değiştirmeyi dene
+19.04.2025 17:21 - +90 544 770 76 07: değiştirsem de aynı hatayı alıyorum
+19.04.2025 17:22 - +90 551 163 43 06: silerken tam silinmemiş olabilir
+19.04.2025 17:22 - +90 551 163 43 06: bir tane uninstall programı kullansan olabilir
+19.04.2025 17:23 - +90 546 970 79 68: Gptden terminal üzerinden hem dosya konumumunu hemde geri kalan dosyaları temizleyecek kodu yazdırırsanız düzelir
+19.04.2025 17:23 - +90 546 970 79 68: Adım adım anlatacaktır
+19.04.2025 17:23 - +90 551 163 43 06: https://www.revouninstaller.com/revo-uninstaller-free-download/
+19.04.2025 17:24 - +90 546 970 79 68: Uygulamayı halihazırda sildiğiniz için bununla düzelmeyebilir
+19.04.2025 17:29 - +90 551 163 43 06: windows registry üzerinden siliyor
+19.04.2025 17:29 - +90 544 770 76 07: Çok teşekkür ederim arkadaşlar deneyeceğim
+19.04.2025 17:36 - +90 542 286 11 32: Bu mesaj silindi
+19.04.2025 19:06 - Ömer Can Assistant: https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5ODcw/details
+19.04.2025 19:06 - Ömer Can Assistant: Bugünün video kaydına linkten ulaşabilirsiniz
+19.04.2025 22:24 - +90 505 677 44 70: müsait olan asistan var mı acaba?
+20.04.2025 04:59 - +90 505 783 41 16: Memory hatasından dolayı dünkü ollame yüklenmesini yapamadım. Dersten önce yapmam gereken birşey var mı
+20.04.2025 05:55 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+20.04.2025 07:35 - +90 551 163 43 06: zoomdan bir anda attı tekrar giremiyorum 3 4 defa denedim bilgisayarı kapatıp yeniden açtım olmadı
+20.04.2025 07:35 - +90 551 163 43 06: <Medya dahil edilmedi>
+20.04.2025 07:35 - Ömer Can Assistant: tarayıcıdan deneyin
+20.04.2025 07:43 - +90 551 163 43 06: Announcement: To ensure that you are able to attend UNM Zoom meetings that require authentication, please take a moment to review (and consider bookmarking) the following instructions:
+
+Joining a UNM Zoom meeting that requires authentication with your UNM NetID.
+
+Joining a UNM Zoom meeting that requires authentication with your HSC ID.
+
+
+
+Terms of Use: UNM requires campus activities to be respectful of a diverse community and supportive of students, faculty, and staff with a wide range of backgrounds and experiences. By registering for and participating in UNM Zoom meetings, you agree to comply with and be bound by UNM’s Acceptable Information and System Use Policy (2500) and UNM’s Respectful Campus Policy (2240).
+
+
+
+Get Support: For support specific to Zoom integrations with UNM Canvas, please contact the UNM Canvas Support Team 24/7 at 505-277-0857.
+
+
+
+For assistance with UNM IT services, please contact UNM IT Customer Support Services at 505-277-5757. Hours of operation are Monday – Friday, 7:30 a.m. to 5 p.m.
+20.04.2025 07:43 - +90 551 163 43 06: bu aşamayı geçemiyorum
+20.04.2025 07:44 - Ömer Can Assistant: Farklı bir hesapla giriş yapmayı deneyelim
+20.04.2025 07:44 - Ömer Can Assistant: Any desk indirir misiniz
+20.04.2025 07:44 - Ömer Can Assistant: Bilgisayarınıza baglaniyim
+20.04.2025 07:44 - +90 551 163 43 06: denedim
+20.04.2025 07:44 - +90 551 163 43 06: indireyim şimdi
+20.04.2025 07:48 - Ömer Can Assistant: İndirince özelden anydesk numaranızı yazın
+20.04.2025 08:30 - +90 542 286 11 32: Mola sona erdi.
+20.04.2025 09:00 - +1 (310) 954-6406: <Medya dahil edilmedi>
+20.04.2025 11:42 - Ömer Can Assistant: Mola sona erdi
+20.04.2025 11:42 - Ömer Can Assistant: Ders devam ediyor
+20.04.2025 19:44 - +1 (310) 954-6406: day 6 ders videosu yayınlandı. Derste chatten gönderilen kodlar videonun altında .txt dosyasında
+https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5ODky/details
+21.04.2025 10:18 - +1 (813) 298-9869: Ingilizce karakterlerle yazilmis bir metni duzeltip turkce karakterlere ceviren paket bulunur mu acaba? Zannederim sozluk yuklemek gerekiyor?
+21.04.2025 10:20 - +1 (813) 298-9869: Bir de Turkce dosyasiyla 6. Dersin sonundaki Quran kodlarini tekrarladim ama cok basarili olmadi, stop words vs. Problem oldu, tekrar eden kelimeler ingilizceden farkli, onu gelistirmek icin neler yapabilirim? <Bu mesaj düzenlendi>
+21.04.2025 10:30 - Ömer Can Assistant: ai agentla bu yapılabilir. Türkçe dil paketleri çok sağlıklı çalışmıyor. O yüzden llm kullanıyorum ben.
+21.04.2025 14:58 - +1 (310) 954-6406: kendi stop wordlerinizden bir liste olusturup var olan stop wordslere append edip yeniden calistirabilirsiniz
+21.04.2025 14:58 - +1 (310) 954-6406: 'Ofice Hours' saatlerimiz belli oldu.
+2-3 Mayıs Cuma ve Cumartesi akşamı, Türkiye saati ile 18:00 - 22:00 arasında, ders hocası ile birebir görüşme fırsatınız bulunmaktadır. Bu süre zarfında, aşağıdaki konuları görüşebilirsiniz:
+
+        Kendinizi tanıtmak
+        Sorularınızı sormak
+        Kariyer planlarınızı gözden geçirmek
+        Yapay zeka derslerinizden beklentilerinizi tartışmak
+        Amerika'da çalışma veya yüksek lisans/doktora çalışmaları hakkında bilgi almak
+        Projeler hakkında fikir alışverişinde bulunmak
+
+Her görüşme 10'ar dakika sürecektir. Lütfen uygun olan saate Excel dosyasında https://tinyurl.com/ad37ai) isminizi belirtin. Toplantı saatinizden 2 dakika önce, aşağıdaki Zoom bağlantısına tıklayarak toplantıya katılın. Zoom sizi bekleme odasına alacak ve bir önceki görüşme sona erdiğinde sıra size gelecektir.
+
+Zoom Bağlantısı: https://unm.zoom.us/j/91966796841
+Excel dosyasına erişmek için de aşağıdaki bağlantıyı kullanabilirsiniz:
+https://tinyurl.com/ad37ai
+21.04.2025 15:18 - GS: müsait olan asistan arkadas varmi?
+21.04.2025 15:23 - Ömer Can Assistant: Buyrun
+21.04.2025 15:51 - +1 (813) 298-9869: Deniyorum, tesekkur ederim
+21.04.2025 15:51 - +1 (813) 298-9869: Tesekkur ederim
+21.04.2025 16:54 - ‎~ Harun Demircioğlu kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+21.04.2025 16:52 - ‎~ Zafer ACAR, +90 543 491 09 33 kişisini ekledi
+21.04.2025 23:38 - +90 505 915 10 87: arkadaşlar müsait asistan var mı
+21.04.2025 23:40 - +90 530 261 02 11: müsaitim buyrun
+22.04.2025 06:46 - +90 536 817 24 31: Selamlar. Ollama dan kopyalacagimiz satirlari paylaşabilir misiniz ?
+22.04.2025 07:23 - +90 505 783 41 16: ollama run deepseek-r1
+22.04.2025 07:24 - +90 505 783 41 16: Bu ilki. diğeri yok bende
+22.04.2025 07:25 - +90 536 817 24 31: Bende de ikincisi yok.
+22.04.2025 07:28 - +90 542 502 40 59: ollama run llama3.2-vision:11b-instruct-q8_0
+22.04.2025 15:24 - +90 501 131 94 01: <Medya dahil edilmedi>
+İyi günler hocam replace fonksiyonu çalışmıyor sebebi ne olabilir
+22.04.2025 15:27 - +90 530 261 02 11: uygun iseniz link ataym
+22.04.2025 15:27 - +90 501 131 94 01: Olur hocam
+22.04.2025 15:28 - Ömer Can Assistant: kodu eksik yazmışsınız
+22.04.2025 15:29 - Ömer Can Assistant: . larla beraber gelmiş
+22.04.2025 15:29 - Ömer Can Assistant: extract kullanılan fonksiyon kodunu kontrol edin
+22.04.2025 15:29 - Ömer Can Assistant: bu haldeyken çalıştırmak istiyorsanız .str.replace yapmalısınız
+22.04.2025 15:31 - +90 501 131 94 01: Tamamdır düzeldi Hocam
+23.04.2025 00:00 - ‎+90 537 961 02 67 kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+23.04.2025 17:54 - ‎+90 537 961 02 67 kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+24.04.2025 15:25 - +90 501 131 94 01: hocam ollama icin gerekli kod ollama run deepseek-r1 buydu degil mi
+24.04.2025 15:26 - +90 501 131 94 01: ollama run deepseek-r1
+24.04.2025 15:26 - GS: ‎IMG-20250424-WA0000.jpg (dosya ekli)
+24.04.2025 19:51 - +1 (310) 954-6406: Ofis saatlerine ismini yazan çok az kişi var. Bu durumda, 2 günün 1'ini iptal etmek zorunda kalacağız. Lütfen son dakikaya bırakmayınız.
+24.04.2025 21:43 - +1 (503) 550-6327: Military data ile ilgili olan clustering projesinde multiple layered dataframe header var, eğer birinci sütun başlığını alma diyerek csv file okursak o zaman clustering yaparken hassaslk kaybolurmu, yanlışmı olur? Yoksa future extraction ve dimension reduction gibi bir proses mi yapmamuz lağzım?
+24.04.2025 21:52 - +1 (503) 550-6327: Csv dedim excel dosyası
+24.04.2025 22:07 - +90 542 286 11 32: Unnamed 1 2 3 ... yazan satırları mı kasdettiniz
+24.04.2025 22:07 - +1 (503) 550-6327: Evet Saliha hanım
+24.04.2025 22:07 - +1 (503) 550-6327: Şu ana kadar multi level data hiç kullanmsdık
+24.04.2025 22:07 - +90 542 286 11 32: ilk satırı silip alttaki satırı baslik yapabilirsiniz
+24.04.2025 22:08 - +1 (503) 550-6327: Bu sütün header düşürürsek kolayda
+24.04.2025 22:11 - +1 (503) 550-6327: Ben şöyle düşünmüştüm geogragic datayla ilgili olan featureları bir vector altında toplasak , ve diğer lerinide aynı şekildr grouplar oluşturarak yapsak acaba daha etkili bir analiz mi olur? Hoş daha önce hiç denemedim böyle bir şeyi ama🤣🤣. Başlığın ilkini düşürüp devam edeceğim teşekkürler 👍🏻🖐🏻 <Bu mesaj düzenlendi>
+24.04.2025 22:18 - +90 542 286 11 32: O dediginiz harita gorsellestirmesi icin iyi olabilir, rica ederim, iyi calismalar
+24.04.2025 23:02 - +90 501 131 94 01: <Medya dahil edilmedi>
+Tam olarak yüklenmiş durumda mı şu an
+24.04.2025 23:02 - +90 501 131 94 01: Ya da nasıl kontrol edebilirim
+24.04.2025 23:06 - Ömer Can Assistant: ollama list
+24.04.2025 23:06 - Ömer Can Assistant: Yazın
+24.04.2025 23:06 - Ömer Can Assistant: Orada yüklü olanları gorebilirsiniz
+24.04.2025 23:08 - +90 501 131 94 01: <Medya dahil edilmedi>
+Yüklenmiş diye düşünüyorum
+24.04.2025 23:08 - Ömer Can Assistant: Yüklenmiş
+24.04.2025 23:09 - Ömer Can Assistant: Oradan llmle direkt konuşmak isterseniz
+24.04.2025 23:09 - Ömer Can Assistant: ollama run (model ismi)
+24.04.2025 23:09 - Ömer Can Assistant: Yazarsanız modele bağlanır ve konuşabilirsiniz
+24.04.2025 23:10 - Ömer Can Assistant: Parantez içinde olmayacak direkt model ismini yazacaksınız
+24.04.2025 23:22 - +1 (503) 550-6327: Harun bey orda daha çok memory gerektiriyor error u vermiş ollama kullanmadım ama eğer memory gerektiriyor hayası verdiyse ya yüklenmemiştir yada kullanırken hata verebilir sanki
+24.04.2025 23:23 - +90 501 131 94 01: Evet Hocam kullanırken hata verdi hafıza açıyorum şu an
+24.04.2025 23:25 - +1 (503) 550-6327: Success de demiş gerçi error mesajından önce yükleme kınusunda☹️
+24.04.2025 23:59 - +90 501 131 94 01: Evet Hocam konuşabiliyorum ama çok yavaş olması bilgisayarla alakalıdır değil mi
+25.04.2025 02:52 - +1 (310) 954-6406: https://www.whitehouse.gov/presidential-actions/2025/04/advancing-artificial-intelligence-education-for-american-youth/
+25.04.2025 02:58 - GS: Hocam burdan bize is cikarmi? 😊
+25.04.2025 02:59 - GS: Almanyada da digitalizirung kapsaminda büyük capli adimlar atilmasi icin meclise yönergeler verildi ama cok yavas isledigi icin henüz görünürde bisey yok.
+25.04.2025 13:12 - Ömer Can Assistant: Bu akşam saat 21:30 da military power clustering ödevini çözeceğiz
+25.04.2025 13:12 - Ömer Can Assistant: ANKET:
+Bu akşam 21:30 da proje çözümüne
+SEÇENEK: Katılacağım (‎16 oy)
+SEÇENEK: Katılamayacağım (‎2 oy)
+
+25.04.2025 13:18 - +90 539 566 28 28: Haftanın en mutlu eden mesajı😇
+25.04.2025 13:48 - GS: Bu mesajı sildiniz
+25.04.2025 15:26 - +90 507 873 38 56: Merhabalar, bilgisayarıma geçen hafta Ollama’yı kurmuştum ve deepseek’i yüklemiştim. Ancak kapattıktan sonra ikinci bir kere çalıştıramadım. Program kurulu görünüyor ancak açılmıyor, nasıl çözebilirim?
+25.04.2025 15:26 - +90 507 873 38 56: Kaldırıp tekrar mı yüklemeliyim?
+25.04.2025 15:26 - Ömer Can Assistant: nasıl açmaya çalışıyorsunuz
+25.04.2025 15:27 - +90 507 873 38 56: Herhangi bir programı açmaya çalışır gibi :(
+25.04.2025 15:28 - +90 507 873 38 56: Nasıl çalıştırmam gerektiğini unuttum o zaman sanırım..
+25.04.2025 15:28 - Ömer Can Assistant: arama kısmına ollama yazıp üstüne mi tıklıyorsunuz
+25.04.2025 15:28 - +90 507 873 38 56: Evet
+25.04.2025 15:28 - Ömer Can Assistant: bu çalıştırmak için gerekli aktif etmiş oluyorsunuz bu sayede
+25.04.2025 15:29 - Ömer Can Assistant: sonra arama kısmına windows powershell yazıp tıklayacaksınız
+25.04.2025 15:29 - Ömer Can Assistant: açılan yere ollama list yazacaksınız indirdiklerinizi göreceksiniz
+25.04.2025 15:29 - +90 507 873 38 56: Tamamdır, sanırım oluyor
+25.04.2025 15:29 - +90 507 873 38 56: Çok teşekkür ederim
+25.04.2025 15:59 - +90 505 783 41 16: hocam bende <think> dedi ve 1 saattir harf harf hece hece birşeyler yazıyor. bilgisayar kastı iyice. ne yapmalıyım? açabildiğim kadar alan açtım. başka yapabileceğim bir şey var mı?
+25.04.2025 16:25 - +1 (310) 954-6406: Yok. Onunla ilgili dersleere daha gelmedik. Sadece onceden kurmanizi, ders saati geldiginde beklemek istemedik
+25.04.2025 16:45 - +90 505 783 41 16: yani... sanırım kurdum hocam :) teşekkür ederim
+25.04.2025 20:30 - Ömer Can Assistant: https://michigantech.zoom.us/j/82260758498 clustering çözümü için katılabilirsiniz
+25.04.2025 22:15 - +1 (813) 298-9869: Recording var mi?
+25.04.2025 22:17 - +90 542 286 11 32: Evet, olacak
+25.04.2025 22:29 - +1 (813) 298-9869: Tesekkurler
+25.04.2025 22:53 - +90 532 561 25 01: <Medya dahil edilmedi>
+25.04.2025 22:53 - +90 532 561 25 01: <Medya dahil edilmedi>
+Bu hatayı alıyorum. Yardım edebilir misiniz
+25.04.2025 22:55 - +90 542 502 40 59: Sanırım boş verileri düzeltmemişsiniz
+25.04.2025 23:04 - +90 532 561 25 01: Düzeldi teşekkür ederim
+25.04.2025 23:07 - +90 542 502 40 59: Rica ederim
+26.04.2025 05:53 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+26.04.2025 08:24 - +90 542 286 11 32: Mola bitti ders devam ediyor
+26.04.2025 08:27 - +90 538 273 09 07: elektrikler gitti, gelmesini bekliyorum
+26.04.2025 11:48 - +90 542 286 11 32: Mola bitti ders devam ediyor
+26.04.2025 13:21 - +90 543 810 15 50: <Medya dahil edilmedi>
+26.04.2025 13:21 - +90 543 810 15 50: Kütüphaneler import olmuyor
+26.04.2025 13:21 - Ömer Can Assistant: Numpy surumu farklı olduğu için öyle
+26.04.2025 13:22 - Ömer Can Assistant: Ben colabda bu dosyayı çalıştırıp göndereceğim çalışır halini
+26.04.2025 13:22 - Ömer Can Assistant: Numpy surumunuzu değiştirirsek diğer paketlerin bozulma ihtimali var
+26.04.2025 13:22 - Emr7*: Bende de aynen . Hata oldu Kernel Restart yaparken
+26.04.2025 13:22 - Ömer Can Assistant: Colabdan çalıştıracagiz bu dosyayi
+26.04.2025 13:24 - Emr7*: Tmm hocam. Normal  geri dönüsturmek için ne yapalım
+26.04.2025 13:24 - Emr7*: Hic bir dosya tekrar çalışmıyor !
+26.04.2025 13:25 - +90 543 810 15 50: Sadece pandas değil hiç bi kütüphane çalışmıyor 1 saat öncesine kadar bi problem yoktu hocam
+26.04.2025 13:25 - +90 536 395 74 64: Arkalar for token yazan kodu yollar mısınız
+26.04.2025 13:26 - Ömer Can Assistant: Hiçbir kütüphanesi çalışmayanlar atacağım zoom toplantısına katılsın
+26.04.2025 13:26 - +90 536 395 74 64: <Medya dahil edilmedi>
+26.04.2025 13:31 - Ömer Can Assistant: Zoom Toplantısına Katıl
+https://us05web.zoom.us/j/84684162989?pwd=KChf4YC039ebOqDzk5k5xxvpPEaVcg.1
+
+Toplantı Kimliği: 846 8416 2989
+Parola: EupJ81
+26.04.2025 14:17 - ‎~ Özkan Günalp bir mesajı sabitledi
+26.04.2025 14:18 - ‎~ Özkan Günalp bir mesajı sabitledi
+26.04.2025 14:59 - GS: Ders bittimi?
+26.04.2025 15:34 - +90 506 425 03 51: Classroom a katılamıyorum asistan arkadaşlardan birisi rica etsem bakabilir mi acaba
+26.04.2025 16:05 - +90 532 613 18 22: Hocam ben bunu göremedim ya eve gidince bir deneyeyim de ona göre bi yardımcı olursanız sevinirim
+26.04.2025 19:44 - +90 532 613 18 22: Merhaba hatalar konusunda yardımcı olabilecek asistan arkadaş var mı acaba ?
+26.04.2025 20:23 - +1 (864) 867-9417: Meeting'in recordingi var mi?
+26.04.2025 21:41 - +90 505 915 10 87: Kayıt yayınladı mı?
+26.04.2025 22:30 - +1 (310) 954-6406: 7 gun videosu https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5OTAz/details
+27.04.2025 05:54 - +90 542 286 11 32: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+27.04.2025 08:36 - Ömer Can Assistant: Zoom a ismi ile giriş yapmayanlar zoomdan atılacaktır bilginize <Bu mesaj düzenlendi>
+27.04.2025 11:45 - Ömer Can Assistant: mola sona erdi
+27.04.2025 11:45 - Ömer Can Assistant: ders başlıyor
+27.04.2025 13:00 - +90 505 783 41 16: Benim son bölüm çalışmadı bir türlü
+27.04.2025 23:31 - +1 (310) 954-6406: Day8 Ders videosu yayinlandi
+https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5OTAx/details
+28.04.2025 10:52 - +90 501 131 94 01: <Medya dahil edilmedi>
+28.04.2025 10:53 - +90 501 131 94 01: İyi günler hocam kod çalıştı fakat
+28.04.2025 10:53 - Ömer Can Assistant: ilk sütun ismini yanlış yazmışsınız
+28.04.2025 13:22 - +90 501 131 94 01: Bu mesaj silindi
+28.04.2025 13:23 - +90 501 131 94 01: Bu mesaj silindi
+28.04.2025 14:28 - GS: Bu mesajı sildiniz
+28.04.2025 16:13 - +90 552 379 81 88: Jupyter notebook’ta numpy-tensorflow-python sürümlerinin hepsi çakışıyor. Yeni çevre açıp python sürümünü tensorflow’un desteklediği sürüme çekmeme rağmen tensorflow u yükleyemedim. Müsait biri bakabilir mi
+28.04.2025 16:14 - Ömer Can Assistant: any desk açıp özelden numaranızı yazın
+28.04.2025 16:16 - +90 552 379 81 88: Tamam
+28.04.2025 16:54 - GS: ‎IMG-20250428-WA0006.jpg (dosya ekli)
+28.04.2025 17:06 - GS: zafer hocam LinkedIn linkinizi paylasabilirmisiniz
+28.04.2025 17:06 - Ömer Can Assistant: zafer hocanın linkedin hesabı yok.
+28.04.2025 21:50 - +90 505 783 41 16: Merhaba bir konuda yardımınıza ihtiyacım var.
+
+Akademik çalışmam için  veri oluşturmam gerekiyor. 20 adet üst başlık 57 adet alt başlığa bölünüyor. Excel de sütunları bu şekilde oluşturursam, analiz edeceğim cümleleri de satır yapsam EDA yaparken ya da grafik oluştururken üst başlıkları ayrı, alt başlıkları ayrı  kullanabilir miyim?
+
+Bir de cümle analizi yapacağım ve bu 57 alt sütundan her cümle için sadece birini işaretleyeceğim. İşaretleyeceğim sütüna 1 yazıp boşları sonra 0 la doldurmayı düşünüyorum. Doğru yolda mıyım? daha sonra veriyi işlemenin daha pratik bir yolu varmı?
+
+Son olarak yaklaşık 3000 cümleyi bir değer içeriyor mu?içeriyorsa hangisi? diye analiz etmem gerekiyor. Bir kısmını doldursam kalanı için Türkçede sağlıklı tahmin alabilir miyim?
+29.04.2025 08:23 - +1 (813) 298-9869: 7. Gun cloud.png ve en sondaki komedyenlerle ilgili wordembeddings teki uzun kodun dosyasini nerden bulabilirim? Tesekkurler
+29.04.2025 08:23 - GS: Ayni soruyu bende ömer bey e sordum ama suan mesgul galiba
+29.04.2025 08:24 - +1 (813) 298-9869: Tamam musait olunca rica ediyoruz
+29.04.2025 08:33 - Ömer Can Assistant: Fotoğraflarını atar mısınız
+29.04.2025 08:37 - GS: Hocam komedyenlerle ilgili en son konu
+29.04.2025 08:38 - GS: Github da düzenledigi bir kod kümesini kendisi düzenledigini söylemisti zafer hoca
+29.04.2025 08:39 - +1 (813) 298-9869: 7. Gun 5:36:37’den itibaren
+29.04.2025 08:47 - Ömer Can Assistant: ‎037.txt (dosya ekli)
+037.txt
+29.04.2025 08:48 - Ömer Can Assistant: https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/a/NzU2MjgxOTQzOTM0/details
+
+cloud png bu ödevin altında var oradan indirebilirisniz
+29.04.2025 08:58 - +1 (813) 298-9869: Tesekkurler
+29.04.2025 15:05 - +90 536 395 74 64: https://adnankalkan.com.tr/dijital-cagda-basarili-ve-ahlakli-cocuk-yetistirmek/
+Makale: Dijital Çağda Başarılı ve Ahlaklı Çocuk Yetiştirmek
+
+Yazar: Adnan Kalkan 
+
+Dijital çağda hem ahlaklı hem başarılı çocuk yetiştirmek...
+Ayrıca bugünün şartlarında önümüzdeki 30 yılın şartlarını düşünüp bir ona göre bir nesil yetiştirmek...
+Linkten okuyabilir, sesli dinleyebilirsiniz ve paylaşırsanız vesile olursunuz.
+Adnan Kalkan
+29.04.2025 15:12 - ‎+90 554 150 88 76 kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+29.04.2025 19:05 - +90 501 131 94 01: df=pd.read_clipboard() iyi gunler hocam bu kod colabda calsimiyor mu
+29.04.2025 19:18 - +1 (310) 954-6406: Colabda calismamasi normal. Cunku sizin bilgisayarinizin clipboard  buluttaki bir makinenin erisimi olmayabilir
+30.04.2025 05:08 - +1 (813) 298-9869: spacy bende numpy versiyonu problemine sebep olmustu, biraz vakit aldi, bu kodla cozuldu, ihtiyaci olan olursa diye paylasiyorum: %pip uninstall -y numpy
+%pip install "numpy<2.0"
+30.04.2025 09:56 - GS: selam arkadaslar , loan prediction ödevini yapan bir arkadas bana Yardim edebilirmi?
+30.04.2025 11:15 - ‎Ömer Can Assistant, +90 532 628 06 24 kişisini çıkardı
+30.04.2025 11:15 - ‎Ömer Can Assistant, +90 531 103 37 78 kişisini çıkardı
+30.04.2025 11:32 - Ömer Can Assistant: numpy sürümünüzü değiştirirseniz diğer çalışan paketlerde hata çıkabilir
+30.04.2025 11:33 - Ömer Can Assistant: colabda yapmak en doğrusu olacaktır
+30.04.2025 11:34 - Ömer Can Assistant: paketler bozulduysa anaconda prompt u açarak conda update --all yazdığınızda tüm paketleri günceller ve hatalar çözülmüş olur
+30.04.2025 14:20 - +1 (813) 298-9869: Aslinda hepsi birden bozulmustu, simdi hepsi duzeldi ama tekrar sorun olursa bunu deneyeyim iA
+1.05.2025 16:54 - +90 536 817 24 31: Yardımcı olabilecek biri var  mi ilerleyemiyorum ???
+1.05.2025 20:26 - +1 (310) 954-6406: Asistanlarımız Cumartesi Pazar resmi görevli, diğer zamalarda hepsi başka şirketlerde full time çalışıyorlar. Her zaman cevap veremeyebilirler. Arkadaşlarımızın mesai saatinde sorularınız olursa önce poe.com a sorup cevap alamazsanız öyle sormanız ve eğer  hatanın ekran resmini paylaşırsanız bu dersi alan diğer arkadaşlarımızdan bilen birisi de cevap verebilir. Odevleriniz asistanlarımız fırsat bulduklarında değerlendirilecektir.
+2.05.2025 10:30 - +1 (813) 298-9869: Military Powers of Countries icin baska kayit var mi?
+2.05.2025 11:26 - +90 536 817 24 31: Military powers ödevinde çalışmayan bir kod vardı  en son Ömer hocam onu çözmeye çalıştım ama şu şekilde error alıyorum. Kodu ve hatayı paylaşıyorum.
+2.05.2025 11:26 - +90 536 817 24 31: <Medya dahil edilmedi>
+kod
+2.05.2025 11:26 - +90 536 817 24 31: <Medya dahil edilmedi>
+hata
+2.05.2025 11:27 - +90 536 817 24 31: yardımcı olabilirseniz sevinirim.
+2.05.2025 11:41 - +90 536 817 24 31: çözüldü teşekkürler
+2.05.2025 14:17 - +1 (310) 954-6406: Bugün ve yarın akşam Türkiye Saati itibariyle 18:00 ile 22:00 arasında ofis saatlerinde buluşacağız. Hepinizi sorularınız, komik hikayeleriniz ve kariyer planlarınızla görüşmeye bekliyorum. Sırası gelen, 2 dakika önceden Zoom linkine tıklayarak bekleme salonuna alınacak. Önceki görüşme sona erdiğinde, sıra size gelecektir.
+Zoom linki: https://unm.zoom.us/j/91966796841
+Görüşme sırası: https://tinyurl.com/ad37ai
+2.05.2025 17:00 - +1 (310) 954-6406: office hours 1 dakikaya başlıyor. Sırası geleni bekliyoruz
+2.05.2025 17:46 - Ömer Can Assistant: <Medya dahil edilmedi>
+2.05.2025 17:47 - Ömer Can Assistant: Saatimiz geldiğinde zoom a katılalım
+2.05.2025 17:47 - Ömer Can Assistant: Katılamayacaksak ismimizi silelim, teşekkürler
+2.05.2025 19:40 - +90 538 273 09 07: 21.30da proje çözümü olmayacak mı bugün
+2.05.2025 19:44 - +1 (310) 954-6406: Bugun office hours var o yuzden yok
+3.05.2025 05:57 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+3.05.2025 18:26 - +1 (813) 298-9869: Yeni katilmak isteyen arkadaslarimiz icin yeni bir ders acilacak mi? Acilirsa en erken ne zaman acilir?
+3.05.2025 18:35 - Ömer Can Assistant: https://shorturl.at/S6Pz2
+
+yeni kursa katılmak isteyenler bu linkten forma ulaşıp doldurabilirler. Şuan için 31 Mayıs olarak düşünülüyor. Katılım sayısına ve istek üzerine öne çekilebilir. <Bu mesaj düzenlendi>
+3.05.2025 18:35 - +90 546 970 79 68: Hocam office hours zoom linkini paylaşır mısınız
+3.05.2025 18:36 - Ömer Can Assistant: Zoom linki: https://unm.zoom.us/j/91966796841
+Görüşme sırası: https://tinyurl.com/ad37ai
+
+aynı link
+3.05.2025 18:46 - +90 546 970 79 68: Linkte sıramızı bekliyoruz doğrumudur hocam
+3.05.2025 18:46 - +90 546 970 79 68: <Medya dahil edilmedi>
+3.05.2025 18:46 - Ömer Can Assistant: doğru sıranız gelince hoca oturuma alacak sizi
+3.05.2025 18:46 - +90 546 970 79 68: Teşekkür ederim
+3.05.2025 18:59 - +90 539 434 60 35: saatte ufak esneklik olabiliyormu
+3.05.2025 19:00 - Ömer Can Assistant: önceki katılımcıların toplantıları biraz uzamış olabilir
+3.05.2025 19:00 - +90 539 434 60 35: tamamdır hocam teşekkürler
+3.05.2025 19:00 - Ömer Can Assistant: hoca toplantıya devam ediyor siz zoomda kalın
+3.05.2025 20:05 - +1 (864) 867-9417: Birisi Gun 7nin WordEmbeddings file'i gonderebilirmi?
+3.05.2025 20:11 - +90 501 131 94 01: python dosyasi mi lazim
+3.05.2025 20:11 - +1 (864) 867-9417: Evet
+3.05.2025 20:12 - +90 501 131 94 01: <Medya dahil edilmedi>
+wordemdeddings.ipynb
+3.05.2025 20:22 - Ömer Can Assistant: toplantı süreleri biraz aksıyor fakat devam ediyoruz. Sırada olanlar beklesin lütfen, teşekkürler <Bu mesaj düzenlendi>
+3.05.2025 20:25 - +1 (864) 867-9417: yardim edebilecek bir asistant arkadas var mi?
+3.05.2025 20:58 - +90 542 286 11 32: yardımcı olabilirim
+4.05.2025 03:06 - +1 (813) 298-9869: 9. Ders video icerigi biraz farkli, Spark’la basliyor, EDA’ya Vedayla ilgili kayit var mi acaba?
+4.05.2025 04:20 - +1 (310) 954-6406: https://drive.google.com/file/d/1QPsFvVJCvkj78dQMVhrB4VnNMc6hByWs/view?usp=drive_link
+4.05.2025 04:27 - +1 (813) 298-9869: Tesekkur ederim
+4.05.2025 05:57 - +90 542 286 11 32: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+4.05.2025 12:53 - +90 555 032 03 37: Bu mesaj silindi
+4.05.2025 19:47 - +1 (310) 954-6406: Day 10 ders videosu yayınlandı
+https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5OTA0/details
+5.05.2025 02:08 - +1 (310) 954-6406: https://www.karar.com/yazarlar/zafer-acar/bos-zamaniniza-talibim-1584098
+5.05.2025 20:59 - +90 530 518 35 68: Yen buldum boş zamanı ancak okuyabildim harika yüreğine sağlık ben de senin dolu zamanına talibim arkadaş.... 😄
+5.05.2025 22:37 - GS: jupiterde ilerliyemiyorum. müsait olan asistan arkadas varmi anydesk le Yardim edebilecek?
+5.05.2025 22:41 - +90 542 286 11 32: Musaitim
+6.05.2025 16:30 - +90 501 131 94 01: Iyi Gunler Hocam Projeleri cozerken aciklamalari turkce mi yoksa ingilizce mi yapmamiz daha dogru olur
+6.05.2025 16:30 - +90 501 131 94 01: githup a yuklemek icin
+6.05.2025 16:44 - +1 (310) 954-6406: Hangi dilde ise girmek istiyorsaniz o dogru olur
+6.05.2025 18:25 - GS: Bu mesajı sildiniz
+6.05.2025 19:23 - GS: 9. gün icin ödevler nedir? bilen varmi
+7.05.2025 11:51 - +90 541 973 37 36: https://www.linkedin.com/posts/kaggle-turkiye-toplulugu_baseline-dinov2alikedlightglue-activity-7325580609068654592-9YGp?utm_medium=ios_app&rcm=ACoAADrmkEoBiut1Mr3J24fRLo6kHhrzQbTkrjA&utm_source=social_share_send&utm_campaign=whatsapp
+7.05.2025 11:52 - +90 541 973 37 36: merhaba kaggle Türkiye topluluğu görüntü işleme üzerine böyle bir yarışma düzenliyor.
+7.05.2025 12:13 - +90 546 970 79 68: Teşekkürler
+7.05.2025 14:30 - GS: hocam bu ollama yi pc lere kurduk ne zaman kullanacagiz veya ne icin kurduk?
+7.05.2025 15:07 - GS: ‎IMG-20250507-WA0004.jpg (dosya ekli)
+arkadaslar 10 gün chattine bakiyorum, zafer hocanin yazdigi bu kodlari göremedim bir türlü, baska bir Chat dosyasimi var acaba?
+7.05.2025 15:14 - +90 536 817 24 31: <Medya dahil edilmedi>
+7.05.2025 15:14 - +90 536 817 24 31: Arkadaşlar burdan kurtulamıyorum yardımcı olabilecek var mı.
+7.05.2025 15:15 - +90 536 817 24 31: Bunu da yaptım ama değişen bisey olmadı
+7.05.2025 15:20 - +90 542 286 11 32: Bu hatayi nerede aliyorsunuz
+7.05.2025 15:22 - +90 536 817 24 31: Son derslerimizdeki edaya veda dosyasında.
+7.05.2025 15:23 - Ömer Can Assistant: kodu da paylaşır mısınız sadece hatadan çıkaramayız
+7.05.2025 15:24 - Ömer Can Assistant: 10. gün videosunun altında derste yazılan python dosyaları paylaşıldı
+7.05.2025 15:24 - Ömer Can Assistant: oradan kodların hepsine ulaşabilirsiniz
+7.05.2025 15:25 - GS: ‎IMG-20250507-WA0006.jpg (dosya ekli)
+hocam bende yok
+7.05.2025 15:25 - GS: direk dosyalrin icindenmi almam lazim
+7.05.2025 15:28 - GS: kod yazmaktan ginaa geldi
+7.05.2025 16:06 - +90 536 817 24 31: <Medya dahil edilmedi>
+kod bu şekilde hocam
+7.05.2025 16:09 - GS: Bu mesajı sildiniz
+7.05.2025 16:10 - GS: Bu mesajı sildiniz
+7.05.2025 16:16 - GS: bendede bu kod calismadi, asistan arkadaslardan biride baya ugrasti olmadi, bu sekilde devam etmemi söyledi, bende öyle yaptim
+7.05.2025 16:16 - +90 536 817 24 31: Ama devamında da hata alıyorum ben.
+7.05.2025 16:17 - +49 177 5001798: 🤣 bu fazla komik oldu . sakamiydi acaba?! Birazcik cabalicaniz sonra is imkanlarina bir bakin. burda  bu ders icerigini paket halinde veren hic bir kurum yada uni yok.
+7.05.2025 16:18 - GS: 😊😊 dersi dinlerken Zafer hoca chatten devamli kod atiyor, acaba niye ?
+7.05.2025 16:19 - GS: simdi dersin sonuna Dogru artik ginaa geldi evet saka tabiki ama gözlerim görmez oldu, ince ince
+7.05.2025 16:24 - +90 539 566 28 28: Kesinlikle öyle, bu kadar kapsamli baska bir ders dunyada mevcut degil.
+7.05.2025 16:25 - +49 177 5001798: anliyom sizi. kitap okurken harfleri cift göruyom 🤓😄 ama sonuna yüzüyosunuz zaten 🏆  planli calisirsaniz fazla yorulmazsiniz
+7.05.2025 16:27 - +49 177 5001798: 🙂👍 evet okadar bile olabilir.
+7.05.2025 16:29 - GS: dersin kalitesiyle alakali bi sorunum yok Ali bey amenna, ama kod yazma isi benim isin yeni bir saha dolayisiyla ne kadar zorlandigimi ifade etmek istedim.
+7.05.2025 16:33 - Ömer Can Assistant: agent yapacağız. istediğiniz kişinin sesini klonlayarak o kişi gibi konuşturacağız yapay zekayı. Tabi bunları etik değerler içinde kullanmanız koşulu ile göstereceğiz
+7.05.2025 16:34 - GS: hocam sormamin nedeni kullandigimiz yapay zeka araclarinin limiti doluyor bazen, kullanimi mümkünse ollamayi kullanalimmi
+7.05.2025 16:35 - Ömer Can Assistant: gpt ücretli olduğu için limiti dolar. ollamada sizin bilgisayarınızda çalışabilecek ücretsiz yapay zekaları kullanabilirsiniz. Raminizin boyutuna göre çok yüksek modeller çalıştıramazsınız. deepseek, qwen, poe de ücretsiz yüksek parametreli sizin bilgisayarınızın çalıştıramayacağı modeller mevcut. onları kullanmanızı öneririm.
+7.05.2025 21:29 - +90 501 131 94 01: history=model.fit(x_train,y_train, epochs=15,batch_size=128, validation_data=(x_test,y_test),verbose=1) iyi aksamlar Hocam ders notlarinda yazmisim ama regression  icin verbose=1 yazmamiz gerekmiyordu diye hatirliyorum dogru mu
+7.05.2025 21:30 - Ömer Can Assistant: Verbose değeri  epoch larin sonuçlarını gormek istiyorsaniz 1 <Bu mesaj düzenlendi>
+7.05.2025 21:30 - Ömer Can Assistant: Eğer epoch yazsın istemiyorsanız 0 değeri vereceksiniz
+7.05.2025 21:31 - Ömer Can Assistant: Modele etkisi yok sadece siz birinde epoch lari görüyorsunuz
+7.05.2025 22:23 - +90 501 131 94 01: Bu mesaj silindi
+8.05.2025 12:12 - GS: ‎IMG-20250508-WA0000.jpg (dosya ekli)
+notlandirmayi kim yapiyor bilmiyorum ama bu gec teslim edildi ne anlama geliyor biri acikliyabilirmi
+8.05.2025 12:14 - +90 543 810 15 50: Ödevi teslim tarihinden sonra göndermişsiniz
+8.05.2025 12:16 - GS: onu anldim da sonucu nasil etkiliyor bu ,onu merak ettim
+9.05.2025 13:55 - +90 505 783 41 16: Merhaba
+Bugün akşam ödev çözümü olacak mı?
+9.05.2025 13:58 - Ömer Can Assistant: merhaba,  bugün olmayacak. 12 Mayıs pazartesi günü ödev çözümü olacak.
+9.05.2025 14:15 - +90 505 783 41 16: Tmmdr
+9.05.2025 14:19 - Emr7*: ‎IMG-20250509-WA0025.jpg (dosya ekli)
+9.05.2025 14:20 - Emr7*: Arkadaslar hayırlı günler.. 
+Burda ne hata olabilir
+9.05.2025 14:20 - Ömer Can Assistant: uzun sayı olduğu için sığmamış o yüzden e üzerinde yazıyor
+9.05.2025 14:20 - Ömer Can Assistant: hata yok
+9.05.2025 14:21 - Emr7*: 0,87 yazıyor du ilk sonra 8,7 döndü . Ondan sorayım dedim
+9.05.2025 14:21 - Emr7*: Teşekkürler
+9.05.2025 14:23 - Ömer Can Assistant: def algo test kodunuzu chat gpt ye atıp:
+''burada çıktı sonuçlarında; tabloda , den sonra 4 sayı gözükecek şekilde düzenle.''
+promptunu girerseniz düzeltilmiş halde size gönderir. Gönderdiği kodu kullanırsanız o karmaşık sayılar gider ve eskisi gibi sayılar çıkar
+9.05.2025 14:32 - Emr7*: Tmm dir . 
+Bu arada bende 
+Pip install pycaret ' den sonra komple hata oldu paket yüklenmedi  .
+Ama 
+pip uninstall pycaret  tekrar girince normalde gibiye döndü .
+9.05.2025 14:33 - Emr7*: Aynen hata alanlar uğraşmasin diye bilgi .
+9.05.2025 15:50 - +90 501 131 94 01: Bu mesaj silindi
+9.05.2025 16:02 - GS: 15-Become a pro bölümünde yayinlanan ödev icin sormak istiyorum; hangi kriterlere göre 20 yarismayi secmeliyiz? bu konular uzmanlik alani veya ilgi alanimi olmasi tavsiye ediliyor?
+9.05.2025 16:02 - GS: yarismalarin icerigini biraz okudum, konuya hakim olmak icin kod yazmadan ziyade o konuyla alakali baya bi arastirmada yapmak gerekiyor
+9.05.2025 16:03 - GS: bu konuyla alakali bilgisi olan arkadaslardan desteklerini rica ediyorum
+9.05.2025 16:09 - +1 (310) 954-6406: Rastgele 20 proje sececeksiniz
+9.05.2025 16:30 - +90 501 131 94 01: Mevcut tüm RAM kullanıldıktan sonra oturumunuz çöktü. colabda boyle bir hata aliyorum hocam
+9.05.2025 16:30 - +90 501 131 94 01: colab pro alsam cozulur mu
+9.05.2025 16:31 - +90 530 261 02 11: get dummies yaptı iseniz çok fazla sütun açmış olabilir misiniz acaba?
+9.05.2025 16:31 - +90 501 131 94 01: hayir hocam get dummies ugulamadim
+9.05.2025 16:31 - +90 501 131 94 01: (1000000, 9)
+9.05.2025 16:31 - +90 501 131 94 01: verim fazla ama
+9.05.2025 16:32 - +90 530 261 02 11: anladm
+9.05.2025 16:32 - +1 (310) 954-6406: Hayir yine Coker. Feature engineering yapmalisiniz
+9.05.2025 16:33 - +90 501 131 94 01: Anladim hocam tesekkurler
+9.05.2025 16:38 - +90 530 261 02 11: Derin öğrenme modeli üzerinde mi çalışıyorsunuz
+9.05.2025 16:44 - +90 501 131 94 01: Hayir Hocam once gelenekselde çözmek istedim
+9.05.2025 16:44 - +90 501 131 94 01: Derin ogrenmede almam galiba dimi
+9.05.2025 16:45 - +90 501 131 94 01: batch_size olduğu için
+9.05.2025 16:46 - +90 530 261 02 11: evet batch size değerini düşük tutarak RAM kullanımını dengeleyebilirsiniz
+9.05.2025 16:46 - +90 530 261 02 11: aşırı yüklenmeyi önlemek amacı ile
+9.05.2025 16:46 - +90 530 261 02 11: bir de Colab da çalışma zamanı türü olarak hangisi seçili
+9.05.2025 16:47 - +90 530 261 02 11: T4 GPU RAM'a aşırı yüklenebilir
+9.05.2025 16:47 - +90 530 261 02 11: Çünkü işlem yapabilmek için büyük miktarda veriyi alır
+9.05.2025 16:47 - +90 501 131 94 01: CPU
+9.05.2025 16:47 - +90 501 131 94 01: Seçili
+9.05.2025 16:47 - +90 530 261 02 11: tmmdr
+9.05.2025 20:03 - +90 533 324 92 42: ---------------------------------------------------------------------------
+ValueError                                Traceback (most recent call last)
+Cell In[145], line 9
+      6 warnings.filterwarnings("ignore")
+      7 pd.set_option("display.max_columns",100)
+----> 9 from sklearn.linear_model import LinearRegression,SGDRegressor,Ridge,Lasso,ElasticNet
+     10 from sklearn.neighbors import KNeighborsRegressor, RadiusNeighborsRegressor
+     11 from sklearn.ensemble import GradientBoostingRegressor,AdaBoostRegressor
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/linear_model/__init__.py:9
+      7 from ._base import LinearRegression
+      8 from ._bayes import ARDRegression, BayesianRidge
+----> 9 from ._coordinate_descent import (
+     10     ElasticNet,
+     11     ElasticNetCV,
+     12     Lasso,
+     13     LassoCV,
+     14     MultiTaskElasticNet,
+     15     MultiTaskElasticNetCV,
+     16     MultiTaskLasso,
+     17     MultiTaskLassoCV,
+     18     enet_path,
+     19     lasso_path,
+     20 )
+     21 from ._glm import GammaRegressor, PoissonRegressor, TweedieRegressor
+     22 from ._huber import HuberRegressor
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/linear_model/_coordinate_descent.py:20
+     17 from scipy import sparse
+     19 from ..base import MultiOutputMixin, RegressorMixin, _fit_context
+---> 20 from ..model_selection import check_cv
+     21 from ..utils import Bunch, check_array, check_scalar
+     22 from ..utils._metadata_requests import (
+     23     MetadataRouter,
+     24     MethodMapping,
+     25     _raise_for_params,
+     26     get_routing_for_object,
+     27 )
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/model_selection/__init__.py:5
+      1 """Tools for model selection, such as cross validation and hyper-parameter tuning."""
+      3 import typing
+----> 5 from ._classification_threshold import (
+      6     FixedThresholdClassifier,
+      7     TunedThresholdClassifierCV,
+      8 )
+      9 from ._plot import LearningCurveDisplay, ValidationCurveDisplay
+     10 from ._search import GridSearchCV, ParameterGrid, ParameterSampler, RandomizedSearchCV
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/model_selection/_classification_threshold.py:14
+      6 from ..base import (
+      7     BaseEstimator,
+      8     ClassifierMixin,
+   (...)
+     11     clone,
+     12 )
+     13 from ..exceptions import NotFittedError
+---> 14 from ..metrics import (
+     15     check_scoring,
+     16     get_scorer_names,
+     17 )
+     18 from ..metrics._scorer import _BaseScorer
+     19 from ..utils import _safe_indexing
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/metrics/__init__.py:3
+      1 """Score functions, performance metrics, pairwise metrics and distance computations."""
+----> 3 from . import cluster
+      4 from ._classification import (
+      5     accuracy_score,
+      6     balanced_accuracy_score,
+   (...)
+     24     zero_one_loss,
+     25 )
+     26 from ._dist_metrics import DistanceMetric
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/metrics/cluster/__init__.py:25
+      8 from ._bicluster import consensus_score
+      9 from ._supervised import (
+     10     adjusted_mutual_info_score,
+     11     adjusted_rand_score,
+   (...)
+     23     v_measure_score,
+     24 )
+---> 25 from ._unsupervised import (
+     26     calinski_harabasz_score,
+     27     davies_bouldin_score,
+     28     silhouette_samples,
+     29     silhouette_score,
+     30 )
+     32 __all__ = [
+     33     "adjusted_mutual_info_score",
+     34     "normalized_mutual_info_score",
+   (...)
+     51     "consensus_score",
+     52 ]
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/metrics/cluster/_unsupervised.py:23
+     17 from ...utils._array_api import _atol_for_type
+     18 from ...utils._param_validation import (
+     19     Interval,
+     20     StrOptions,
+     21     validate_params,
+     22 )
+---> 23 from ..pairwise import _VALID_METRICS, pairwise_distances, pairwise_distances_chunked
+     26 def check_number_of_labels(n_labels, n_samples):
+     27     """Check that number of labels are valid.
+     28 
+     29     Parameters
+   (...)
+     35         Number of samples.
+     36     """
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/metrics/pairwise.py:50
+     48 from ..utils.parallel import Parallel, delayed
+     49 from ..utils.validation import _num_samples, check_non_negative
+---> 50 from ._pairwise_distances_reduction import ArgKmin
+     51 from ._pairwise_fast import _chi2_kernel_fast, _sparse_manhattan
+     54 # Utility Functions
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/__init__.py:94
+      1 #
+      2 # Pairwise Distances Reductions
+      3 # =============================
+   (...)
+     91 #    (see :class:`MiddleTermComputer{32,64}`).
+     92 #
+---> 94 from ._dispatcher import (
+     95     ArgKmin,
+     96     ArgKminClassMode,
+     97     BaseDistancesReductionDispatcher,
+     98     RadiusNeighbors,
+     99     RadiusNeighborsClassMode,
+    100     sqeuclidean_row_norms,
+    101 )
+    103 __all__ = [
+    104     "BaseDistancesReductionDispatcher",
+    105     "ArgKmin",
+   (...)
+    109     "sqeuclidean_row_norms",
+    110 ]
+
+File /opt/anaconda3/lib/python3.12/site-packages/sklearn/metrics/_pairwise_distances_reduction/_dispatcher.py:8
+      5 from scipy.sparse import issparse
+      7 from ... import get_config
+----> 8 from .._dist_metrics import (
+      9     BOOL_METRICS,
+     10     METRIC_MAPPING64,
+     11     DistanceMetric,
+     12 )
+     13 from ._argkmin import (
+     14     ArgKmin32,
+     15     ArgKmin64,
+     16 )
+     17 from ._argkmin_classmode import (
+     18     ArgKminClassMode32,
+     19     ArgKminClassMode64,
+     20 )
+
+File sklearn/metrics/_dist_metrics.pyx:1, in init sklearn.metrics._dist_metrics()
+
+ValueError: numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject
+9.05.2025 20:03 - +90 533 324 92 42: şöyle bi hata alıyorum çözemedim nasıl çözebilirim
+9.05.2025 20:13 - +90 542 286 11 32: Numpy İLE sürüm uyumsuzluğu olduğunu söylemiş hatada, binary incompatibility, colabde deneyin bi isterseniz.
+9.05.2025 22:34 - +90 501 131 94 01: Bu mesaj silindi
+10.05.2025 06:04 - +90 505 915 10 87: Günaydın
+10.05.2025 06:05 - +90 505 915 10 87: Ders linki alabilir miyim
+10.05.2025 06:05 - +90 542 286 11 32: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+10.05.2025 06:05 - Ömer Can Assistant: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+10.05.2025 11:53 - Ömer Can Assistant: Mola sona erdi
+11.05.2025 05:51 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+11.05.2025 13:31 - +90 543 503 33 05: Asistan hocalarımız classroomda ders notlarını yükleyebileceğimiz bölüm açılmamışta ona bakabilir misiz ?
+11.05.2025 14:58 - +90 532 613 18 22: merhaba bu pakette birşey yapabilecek miyiz acaba
+11.05.2025 14:58 - +90 532 613 18 22: <Medya dahil edilmedi>
+11.05.2025 14:58 - +90 532 613 18 22: AutoComputerVision da
+11.05.2025 14:58 - +90 551 163 43 06: draw_bbox olmayacak mı?
+11.05.2025 15:00 - +90 532 613 18 22: düzeldi teşekkürler
+11.05.2025 15:00 - +90 532 613 18 22: bende hatayı bulamayınca Colab da yazmıştım aynı hatayı vermişti sağolun
+11.05.2025 15:16 - +90 532 613 18 22: <Medya dahil edilmedi>
+bir de burada hata vermişti
+11.05.2025 20:15 - +90 501 131 94 01: ‎IMG-20250511-WA0003.jpg (dosya ekli)
+Hocam cars dosyam yüklü olmasına rağmen böyle bir hata alıyorum nasıl düzeltebilirim
+11.05.2025 20:15 - +90 501 131 94 01: ‎IMG-20250511-WA0004.jpg (dosya ekli)
+11.05.2025 20:15 - +90 501 131 94 01: ‎IMG-20250511-WA0006.jpg (dosya ekli)
+11.05.2025 20:15 - +90 501 131 94 01: ‎IMG-20250511-WA0005.jpg (dosya ekli)
+11.05.2025 20:15 - +90 501 131 94 01: ‎IMG-20250511-WA0007.jpg (dosya ekli)
+11.05.2025 20:22 - +90 543 503 33 05: Acaba aynı dizinde mi ona dikkat ettiniz mi
+11.05.2025 20:23 - +90 501 131 94 01: Nasıl kontrol edebilrim
+11.05.2025 20:24 - +90 501 131 94 01: Bu mesaj silindi
+11.05.2025 23:24 - +90 543 503 33 05: Resmini atmışsınız zaten gördüm aynı dizindeler olmadı dosyanın ismini değiştirip tekrar deneyin belki düzelir düzelmezse asistan hocalarımız daha iyi yardımcı olabilirler
+12.05.2025 03:46 - +1 (310) 954-6406: <Medya dahil edilmedi>
+12.05.2025 03:48 - +1 (310) 954-6406: https://www.karar.com/yazarlar/zafer-acar/yalnizim-dostlarim-1587249
+12.05.2025 09:23 - +90 536 817 24 31: Bu hatayla ilgili Ömer beye yönlendirmisti Zafer hoca.
+12.05.2025 09:39 - Ömer Can Assistant: Bugün çözeceğiz dersten sonra
+12.05.2025 13:05 - +1 (310) 954-6406: Yapay Zeka Kampımıza katılan herkesi ABD'de online Staj yapma fırsatı sunuyoruz. NASA'nın Uzay teleskoplarından gelen verilerini analiz etmeyi öğreten staj programına herkes katılabilir. İngilizce bilmeniz şart değil.
+12.05.2025 13:06 - +1 (310) 954-6406: California Technoloji Enstitüsü Kampüsü'nde 8 haftalık Online Staj İmkanı
+
+1 Temmuz'da başlayacak ve 8 Hafta sürecek olan stajda haftada bir pazartesi günleri Los Angeles saatine göre akşam 17:00, Türkiye saatine göre sabaha doğru 03:00 sularında bir toplantı yapılacak ve burada bir hafta boyunca yapılacak işler tarif edilecek. Yapılacak iş ise NASA'nın süper teknoloji donanımlı Uzay Teleskoplarından gelen verileri bizim derste yaptığımız gibi Jupyter notebook ve Python kullanarak analiz edeceksiniz. Mezun olduğunuzda özgeçmişinize San Francisco UC Berkeley ve Los Angeles Californa Teknoloji Enstitüsü'nde 8 haftalık astronomi stajı yaptım diye yazacaksınız. Bu programa katılmak için aşağıdaki formu doldurup göndereceksiniz ve Howard Isaacson ve Dr. Fei Dai'den gelen emailleri takip edeceksiniz. Etrafınızdaki arkadaşlarınıza da bu haberi iletebilirsiniz. Bu programa katılmak için öğrenci olmanız gerekmiyor. Formu dolduran herkes katılabilir:
+
+https://docs.google.com/forms/d/e/1FAIpQLSeqm_t-k2aLCpqKRxCILg25kab81r01d_4vABoW8Dv23JZS8g/viewform
+
+Bu programı tamamladığınızda özgeçmişinize bu metni yazabilirsiniz.
+Intro to Astronomy Research (Summer Internship)                                                          
+UC Berkeley, San Francisco / Caltech
+    California Technology Institute Los Angeles, CA
+    An introduction to astronomy research for aspiring researchers/enthusiasts. Collecting data from the large telescopes and visualizing & analyzing with Python. Writing academic papers with LaTEX.
+
+Resmi Websitesi https://sites.google.com/view/intro-2-astro/home
+12.05.2025 16:01 - Ömer Can Assistant: Bugün laptop price regression projesini çözeceğiz. saat 21:45.
+link:
+https://michigantech.zoom.us/j/82260758498
+12.05.2025 16:02 - Ömer Can Assistant: ML projelerinin sonuncusu olacak. Bundan sonra NLP ve computer vision çözmeye başlayacağız
+12.05.2025 20:47 - +1 (503) 550-6327: Bu mesaj silindi
+12.05.2025 20:48 - +1 (503) 550-6327: Ömer hocam link gönderecekmisiniz
+12.05.2025 20:48 - +90 501 131 94 01: https://michigantech.zoom.us/j/82260758498
+12.05.2025 22:49 - Ömer Can Assistant: import matplotlib.pyplot as plt
+import seaborn as sns
+import warnings
+warnings.filterwarnings("ignore")
+pd.set_option("display.max_columns",100)
+
+from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import Ridge,Lasso
+from sklearn.linear_model import ElasticNet
+from sklearn.neighbors import KNeighborsRegressor
+from sklearn.ensemble import AdaBoostRegressor
+from sklearn.ensemble import GradientBoostingRegressor
+from sklearn.ensemble import RandomForestRegressor
+from sklearn.tree import ExtraTreeRegressor
+from sklearn.tree import DecisionTreeRegressor
+from xgboost import XGBRegressor
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error,r2_score,mean_absolute_error
+
+
+def algo_test(x,y):
+        L=LinearRegression()
+        R=Ridge()
+        Lass=Lasso()
+        E=ElasticNet()
+        ETR=ExtraTreeRegressor()
+        GBR=GradientBoostingRegressor()
+        kn=KNeighborsRegressor()
+        dt=DecisionTreeRegressor()
+        xgb=XGBRegressor()
+        ab=AdaBoostRegressor()
+        rf=RandomForestRegressor()
+
+
+        algos=[L,R,Lass,E,ETR,GBR,kn,dt,xgb,ab,rf]
+        algo_names=['Linear','Ridge','Lasso','ElasticNet','Extra Tree','Gradient Boosting',
+                    'KNeighbors','Decision Tree','XGBRegressor', 'AdaBoost', 'Random Forest']
+
+        x_train, x_test, y_train, y_test=train_test_split(x,y,test_size=.2,random_state=42)
+
+        r_squared= []
+        rmse= []
+        mae= []
+
+        result=pd.DataFrame(columns=['R_Squared','RMSE','MAE'],index=algo_names)
+
+
+        for algo in algos:
+            p=algo.fit(x_train,y_train).predict(x_test)
+            r_squared.append(r2_score(y_test,p))
+            rmse.append(mean_squared_error(y_test,p)**.5)
+            mae.append(mean_absolute_error(y_test,p))
+
+
+        result.R_Squared=r_squared
+        result.RMSE=rmse
+        result.MAE=mae
+
+        rtable=result.sort_values('R_Squared',ascending=False)
+        return rtable
+12.05.2025 22:50 - Ömer Can Assistant: ‎algo_test_regressor.txt (dosya ekli)
+algo_test_regressor.txt
+13.05.2025 00:01 - Ömer Can Assistant: https://drive.google.com/file/d/1AP0TmsNS9V5OyXcvM3BCsou44AZv3T3O/view?usp=drive_link
+13.05.2025 00:34 - Ömer Can Assistant: Bu hatayı alanlar
+13.05.2025 00:35 - Ömer Can Assistant: Buradaki dosyayı indirip. İçindekileri
+C/users/kullandığınız oturum/.cvlib/object_detection/yolo/yolov3 klasörünun içine atmalılar
+13.05.2025 00:36 - Ömer Can Assistant: Hedefteki dosyayla değiştir seçeneğine tiklamalilar ve kodlari tekrar denemeliler
+13.05.2025 08:59 - Ömer Can Assistant: https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/Nzc5NDMzMjM5OTc4/details
+Laptop Price Prediction Regression proje çözümü video kaydı
+13.05.2025 09:39 - +90 536 817 24 31: Hocam ödev cozumlerini de classrooma eklersek çok sevinirim.
+13.05.2025 09:39 - Ömer Can Assistant: eklendi
+13.05.2025 09:39 - Ömer Can Assistant: bu link classroom linki
+13.05.2025 09:40 - Ömer Can Assistant: diğerlerini de yükleyeceğim gün içinde
+13.05.2025 09:40 - +90 536 817 24 31: Tamam hocam çok teşekkürler.
+13.05.2025 14:48 - GS: ‎IMG-20250513-WA0000.jpg (dosya ekli)
+selam arkadaslar, html formatinda kayit ettikten sonra dersteki gibi görüntüye gecmiyor, bilgisi olan varmi acaba
+13.05.2025 14:48 - GS: ‎IMG-20250513-WA0001.jpg (dosya ekli)
+13.05.2025 15:44 - Ömer Can Assistant: eklentiyle yapılıyor
+13.05.2025 15:48 - Ömer Can Assistant: <Medya dahil edilmedi>
+13.05.2025 15:48 - Ömer Can Assistant: <Medya dahil edilmedi>
+13.05.2025 15:53 - GS: hocam sistemi tekrar bastan yazdim calisti, web browser a ip adresini yazinca calisti, ama calisma dosyasi icerisinde iken görüntü alamadim.
+13.05.2025 15:53 - GS: suan zannedersem sorun kalmadi
+13.05.2025 17:00 - +90 532 613 18 22: Merhaba , Ömer Hoca ile dün akşam çalıştığımız ödev dosyasında bir kaç yeri kaçırmıştım sonrasında videodan tamamladım , shape te 1303,40 iken bende 1303,37 son durumda bendeki sonuç aşağıdaki gibi %82 yi yakaladı ancak tutarlı mı emin olamadım.
+13.05.2025 17:00 - +90 532 613 18 22: <Medya dahil edilmedi>
+13.05.2025 17:02 - Ömer Can Assistant: iki kez eğittik. shape ler tutmuyorsa kod atlamışsınız demektir
+13.05.2025 17:11 - +90 532 613 18 22: olabilir hocam 1. den öncede baktım shape ler tutmuyor , kontrol edip öyle yüklerim sisteme
+13.05.2025 21:18 - +90 552 379 81 88: deepfake https://www.instagram.com/reel/DJUQXHLt7bM/?utm_source=ig_web_copy_link
+14.05.2025 12:49 - GS: slm Yardim edebilecek bir asistan arkadas varmi
+14.05.2025 13:06 - GS: Day11 in hangi dosyalarini Google.drive yüklüyoruz?
+14.05.2025 22:51 - +90 543 503 33 05: https://www.karar.com/yazarlar/zafer-acar/kuantum-yapay-zeka-1590019
+14.05.2025 22:54 - +1 (864) 867-9417: Bu mesaj silindi
+15.05.2025 04:03 - +1 (864) 867-9417: <Medya dahil edilmedi>
+Streamlit programlarda bu hatayi aliyorum:
+15.05.2025 11:32 - GS: Bu mesajı sildiniz
+15.05.2025 16:24 - GS: slm arkadaslar. aldigimiz bu egitimi cv me yazmak istiyorum. egitimin adi ve nereden aldingina dair fikri olan varmi. burada zafer hocanin isminin gecmemesi gerektigi icin kursun alindigi yer muallakta kaliyor. bu konuda fikirlerinizi bekliyorum
+15.05.2025 16:26 - GS: bugün nasip olursa bi is görüsmem olacak orada aktüel ne yaptigimi göstermek acisindan bu önemli
+15.05.2025 17:02 - +90 544 770 76 07: ben de bunu düşünüyorum
+15.05.2025 18:50 - +49 177 5001798: Merhaba, "Master in Applied Data Science" yazabilirsiniz. Classroomda ve bazi PDF dosyalarda yaziyor zaten. Tarih 2025. Yer olarak "Online Bootcamp" veya USA olabilir (cok detaili bakmiyorlar ona). Egitimi veren Dozentin ismi yazilmiyor, Institute veya kurumun adi olabilir. Ve Github linkinizi paylasmakta fayda var, bir sekil ekleyebilirseniz. Bir cok is yeren kisa bi göz atiyor. 
+Eksik veya yanlis varsa hocalar daha iyi bilir. Kolay gelsin.
+15.05.2025 21:13 - +1 (864) 867-9417: AutoComputerVision file icin problem cinkinca nasil duzeltiyoruz?
+15.05.2025 21:15 - +90 542 286 11 32: Darknet hatasi mi
+15.05.2025 22:10 - +1 (864) 867-9417: uzurdilerim evden cikmistim
+15.05.2025 22:10 - +1 (864) 867-9417: hata codu gonderiyim
+15.05.2025 22:10 - +1 (864) 867-9417: evet baktim darknet hatasiydi
+15.05.2025 22:10 - +1 (864) 867-9417: <Medya dahil edilmedi>
+15.05.2025 22:12 - +90 542 286 11 32: Omer hocam burada aciklamisti, gonderdigi linkten dosyalari indirip dedigi sekilde hatayi duzeltebilirsiniz.
+15.05.2025 22:15 - +1 (864) 867-9417: download etim ama ondan sonrasini tam anlayamadim
+15.05.2025 22:15 - +1 (864) 867-9417: Day 12ye mi koyalim yoksa baska biyere mi, ve ondan sonra nerden target path'i degistiryoruz
+15.05.2025 22:19 - +90 542 286 11 32: hayır, C:\Users\sizin_kullandığınız_oturum\.cvlib\object_detection\yolo\yolov3 klasörüne gidin.  indirdiğiniz dosyaları bu klasore atın
+16.05.2025 13:07 - Emr7*: <Medya dahil edilmedi>
+Arkadaslar ,Auto ML gibi kullanmak isterken phyton hatasi verdi Downgrade yapar isem öbür şeyler de sıkıntı oluyormu ? bi bilginiz var mi ?
+16.05.2025 13:07 - Ömer Can Assistant: automl i colabda kullanın
+16.05.2025 13:48 - GS: ‎IMG-20250516-WA0002.jpg (dosya ekli)
+asistan arkadaslar bakabilirmi, poe if ve else li kod yaziyor, bu hatayi düzeltemiyorum
+16.05.2025 13:50 - Ömer Can Assistant: kodu tamamlamamışsınız henüz
+16.05.2025 13:50 - Ömer Can Assistant: o yüzden hata alıyorsunuz
+16.05.2025 13:50 - Ömer Can Assistant: o hücredeki tüm kodu yazın önce <Bu mesaj düzenlendi>
+16.05.2025 15:34 - +1 (864) 867-9417: military clustering cozumunun devami var mi?
+16.05.2025 20:59 - +1 (310) 954-6406: ‎Intro2Astro_2025.pdf (dosya ekli)
+16.05.2025 21:35 - +1 (503) 550-6327: Bu mesaj silindi
+16.05.2025 21:36 - +1 (503) 550-6327: Bu mesaj silindi
+16.05.2025 21:36 - +1 (503) 550-6327: Bu mesaj silindi
+17.05.2025 05:57 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+17.05.2025 11:31 - +1 (310) 954-6406: Reinforcement Learning
+https://www.karar.com/yazarlar/zafer-acar/yapay-zekanin-yildizlari-1588897
+17.05.2025 13:27 - +1 (310) 954-6406: bugunun ders videosu yayinlandi https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5NzQ4/details
+17.05.2025 20:14 - +90 536 817 24 31: <Medya dahil edilmedi>
+Bu durumu çözebilen var mı ?
+17.05.2025 20:17 - +90 542 502 40 59: Burda son yazdığımız kodu uninstall yaptınız mı
+17.05.2025 20:18 - +90 536 817 24 31: Bir kaç uninstall denedim ama olmadı.
+17.05.2025 20:18 - +90 536 817 24 31: Yine iki versiyon varmış gibi davranıyor.
+17.05.2025 20:25 - +1 (864) 867-9417: bunu dene: #!pip uninstall -y qiskit qiskit-terra qiskit-aer qiskit-ibmq-provider
+17.05.2025 20:25 - +1 (864) 867-9417: en basta
+17.05.2025 20:32 - +90 536 817 24 31: Bunu da denedim.
+17.05.2025 20:32 - +1 (864) 867-9417: Oldu mu?
+17.05.2025 20:32 - +90 536 817 24 31: Yok olmadı.
+17.05.2025 20:33 - +1 (864) 867-9417: O codan sonra pip install qiskit yaptin mi
+17.05.2025 20:33 - +1 (864) 867-9417: Ayni hatayi mi veriyor?
+17.05.2025 20:33 - +90 536 817 24 31: Hayır QML  için kurmamız gerekenleri kurdum.
+17.05.2025 20:33 - +90 536 817 24 31: Evet aynı hatayı veriyor.
+17.05.2025 20:34 - +1 (864) 867-9417: Pip install qiskit dene bakalim o duzeltirmi
+17.05.2025 21:29 - +1 (864) 867-9417: Bu mesaj silindi
+17.05.2025 21:29 - +1 (864) 867-9417: Bu mesaj silindi
+17.05.2025 21:31 - +1 (864) 867-9417: Bu mesaj silindi
+17.05.2025 22:03 - +1 (864) 867-9417: ‎IMG-20250517-WA0004.jpg (dosya ekli)
+Loan Classification odevinde fit etmeye calisinca bu hatayi veriyor:
+17.05.2025 22:10 - Ömer Can Assistant: id leri silmemişsiniz
+17.05.2025 22:11 - Ömer Can Assistant: get dummies yapmamışsınız
+17.05.2025 22:11 - Ömer Can Assistant: loan id ve customer id sütunlarına ihtiyacınız yok onları modelde kullanmanız doğru olmaz
+17.05.2025 22:11 - Ömer Can Assistant: aynı zamanda get dummies yapmamışsınız
+17.05.2025 22:17 - +1 (864) 867-9417: Code file i size gonderebilirmiyim cunku onlarin hepsini yaptim?
+17.05.2025 22:18 - +1 (864) 867-9417: Oh yok yanlis dedim, get dummies yapmaya calismistim ama yapamadim
+17.05.2025 22:18 - +1 (864) 867-9417: Ama obur sutunlari silmistim
+18.05.2025 04:30 - +1 (310) 954-6406: Degerli arkadasllar malesef bugun musait olamadim. O sebeple pazar gunu dersimiz olmayacak. Haftaya gorusmek uzere. Bu arada proje cozumlerinizi yapabilirsiniz
+18.05.2025 04:56 - Emr7*: Tmm .Kolay gelsin hocam hayırlı günler
+18.05.2025 05:01 - +90 505 915 10 87: Kolay gelsin hocam.
+18.05.2025 05:55 - +90 539 434 60 35: kolay gelsin hocam iyi günler
+18.05.2025 17:35 - +90 551 163 43 06: Customer Segmantation ödevinde datayı customers products ve orders diye farklı dataframelere ayırdım. tekrar merge etmemiz istenmiş orders ve customers dataframelerini customer id üzerinden merge ettim fakat productsta hangi sütunu kullanacağım konusunda kararsız kaldım. yardımcı olabilir misiniz?
+18.05.2025 17:36 - Ömer Can Assistant: aynı satırda oldukları için ayırdıktan sonra birleştirirken direkt birleştirebilirsiniz <Bu mesaj düzenlendi>
+18.05.2025 17:37 - Ömer Can Assistant: concat kullanarak birleştirebilirsiniz
+18.05.2025 17:37 - +90 551 163 43 06: teşekkürler
+18.05.2025 18:47 - +1 (864) 867-9417: <Medya dahil edilmedi>
+loan classification'de bu hatayi aldim:
+18.05.2025 18:48 - Ömer Can Assistant: Kodu da görmem gerekiyor
+18.05.2025 18:49 - +1 (864) 867-9417: algo test'in codu
+18.05.2025 18:50 - +1 (864) 867-9417: loan classification assignment icin yuzde kac accuracy almamiz gerikiyor?
+18.05.2025 18:50 - Ömer Can Assistant: 80 i geçerseniz güzel olur
+18.05.2025 18:50 - Ömer Can Assistant: O zaman başarılı sayabiliriz
+18.05.2025 18:51 - +1 (864) 867-9417: farkli seyleri deniyorum ama %68-70 mi gecemiyorum
+18.05.2025 18:54 - Ömer Can Assistant: Yaptığımız aynı şeyleri burada da yapacaksınız. Gerekli olan sütunlari sececeksiniz. Boş verileri sileceksiniz veya dolduracaksıniz. Object olup numeric e cevrilebilecek sütunlari cevireceksiniz. Monthly debt sütunu Buna bir örnek $ işareti ve , lu kaldırmanız gerekiyor type ini değiştirmek için. Bir kaç tane daha sütun vardı type değişikliği yapılması gereken. En son hepsini type ini kontrol edeceksiniz info kullanarak. Her şey doğruysa get dummies x ve y olarak ayırıp egiteceksiniz.
+18.05.2025 18:54 - Ömer Can Assistant: Bunu yaptığınızda Otomatik %80 üstüne çıkıyor
+18.05.2025 18:55 - +1 (864) 867-9417: galiba get_dummies ve x ve y'i yanlis yaptim
+18.05.2025 18:55 - +1 (864) 867-9417: <Medya dahil edilmedi>
+18.05.2025 18:55 - +1 (864) 867-9417: Bu mesaj silindi
+18.05.2025 18:58 - Ömer Can Assistant: Doğru yapmışsınız
+18.05.2025 18:58 - +1 (864) 867-9417: hmm
+18.05.2025 18:59 - Ömer Can Assistant: Dosyanizi atın müsait olduğumda bakıyım bugün
+18.05.2025 18:59 - Ömer Can Assistant: 1-2 saat içinde
+18.05.2025 19:00 - +1 (864) 867-9417: tamam
+18.05.2025 19:02 - +1 (864) 867-9417: Bu mesaj silindi
+18.05.2025 19:02 - +1 (864) 867-9417: Bu mesaj silindi
+18.05.2025 20:44 - +90 546 970 79 68: Merhaba skin cancer için yaptığımız resnet_app.py bende çalışmıyor sürekli resimde sorun var hatası alıyorum bilgisi olan varmı veya kodu sorunsuz çalışan birisi modelin eğitim dosyasını ve streamlit halini paylaşabilir mi teşekkür ederim
+18.05.2025 20:47 - +90 546 970 79 68: Ömer hocam hali hazırda çalışan streamlit ile yaptığımız gibi birkaç görsel işleme uygulaması paylaşırmısınız
+18.05.2025 22:05 - +1 (310) 954-6406: https://streamlit.io/gallery
+18.05.2025 22:19 - +90 546 970 79 68: Teşekkür ederim hocam ama söylemek istediğim bizim resnet_app.py gibi derste yazdığımıza benzer herhangi bir hazır dosya olup olmadığıydı ona göre uygulamadaki sorunları çözmeye çalışıyordum
+19.05.2025 08:22 - +90 536 817 24 31: <Medya dahil edilmedi>
+colab ta da aynı hatayı alıyorum.
+19.05.2025 22:32 - +90 543 503 33 05: KEEP: "Kalman-Inspired Feature Propagation for Video Face Super-Resolution" Projesi Türkçe Açıklama
+https://www.linkedin.com/pulse/keep-kalman-inspired-feature-propagation-video-face-projesi-ozcan-sgc1f?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+19.05.2025 22:41 - GS: ‎IMG-20250519-WA0010.jpg (dosya ekli)
+ne yaptiysam burayi gecemiyorum, bilgisi olan varmi
+19.05.2025 22:41 - GS: poe nin dediklerinide yapiyorum ama olmuyor
+19.05.2025 22:56 - +90 543 503 33 05: !pip install gymnasium
+
+bu şekilde dener misiniz bende böyle düzelmişti <Bu mesaj düzenlendi>
+19.05.2025 22:59 - GS: 😊 evet calisti tesekkür ederim
+19.05.2025 23:01 - +90 543 503 33 05: Rica ederim ne demek 😊
+20.05.2025 15:56 - +90 543 810 15 50: <Medya dahil edilmedi>
+Visual Studio da yeni dosya kaydetmek isteyince böyle bir hata almaya başladım yeni dosylarım kaydolmuyor
+20.05.2025 15:57 - GS: appy1.py gibi bir isim denedinmi
+20.05.2025 15:57 - GS: ayni isim varsa yapabilir
+20.05.2025 15:59 - +90 543 810 15 50: Farklı isimler de denedim ama hepsinde dosya bulunamadı diyor
+21.05.2025 20:16 - +90 544 770 76 07: Bilgisayarımın adının Türkçe karakter içermesi sebebiyle çoğu ödevi yaparken hata alıyorum yardımcı olabilecek bir asistan arkadaş var mı
+21.05.2025 20:40 - +1 (503) 550-6327: Arkadaşlar ben 14 gün derse katılamadım, cenazemiz vardı. Dersin vidyosunu göremedim. Ders olmadı mı yoksa ben mi bulamadım? Teşekkürler şimdiden
+21.05.2025 20:42 - +90 505 783 41 16: Allah rahmet eylesin 14. Ders yapılmadı.
+21.05.2025 20:42 - +90 505 783 41 16: .
+21.05.2025 20:44 - +90 546 970 79 68: Başınız sağolsun
+21.05.2025 20:47 - +90 544 770 76 07: jupiter de kodu calıstırmama ragmen ne bir hata ne de çıktı alamıyorum ne yapmalıyım
+21.05.2025 20:51 - Ömer Can Assistant: Kodu ve çıktıyı görebilir miyim
+21.05.2025 20:52 - Ömer Can Assistant: Başınız sağolsun
+21.05.2025 21:01 - +1 (503) 550-6327: Hepinizden Allah razı olsun arkadaşlar, geri dönüşleriniz içinde çok teşekkür ederim🌹.
+21.05.2025 21:03 - +1 (503) 550-6327: Amin , anca vaktim olmuştu dersin websitesine girmeye göremeyince hemen sorayım dedim.
+21.05.2025 21:03 - +1 (503) 550-6327: Allah razı olsun, amin.
+21.05.2025 21:18 - Emr7*: Allah gani gani rahmet eylesin .
+21.05.2025 21:19 - +1 (503) 550-6327: Amin, Allah razı olsun. Tüm vefat etmiş sevdiklerimize inşallah.
+21.05.2025 22:03 - GS: Allah rahmet eylesin, kalanlara sabirlar dilerim.
+21.05.2025 23:18 - +90 538 273 09 07: Allah rahmet eylesin, mekanı cennet olsun
+21.05.2025 23:20 - +90 536 468 17 17: Allah rahmet eylesin
+22.05.2025 22:07 - +1 (864) 867-9417: Multiple Linear Regression icin ne yapicagmizi anlamadim
+22.05.2025 22:54 - +1 (310) 954-6406: Regression
+22.05.2025 22:54 - +1 (310) 954-6406: Sales to y and other columns to x and fit
+22.05.2025 22:59 - +1 (864) 867-9417: O kadar mi? Cok az gibi geldi bana <Bu mesaj düzenlendi>
+23.05.2025 00:39 - +90 501 131 94 01: Iyi gunler Hocam Mlops icin yazdigimiz kodu colabda calistirinca kod calisiyor fakat gecici ip adresi alamiyorum neyi eksik yapmis olabilirim
+23.05.2025 09:42 - Ömer Can Assistant: sales e regression uygulayıp  gazete radyo televizyondan hangisinin sales i en çok etkilediğini bulmanız isteniyor. Tahmin ettiğiniz değerler ve gerçek değerler i de grafikte göstermeniz isteniyor.
+23.05.2025 09:42 - Ömer Can Assistant: colab da local host için ip adresi alamazsınız
+23.05.2025 13:52 - GS: yardimci olabilecek asistan arkadas varmi?
+23.05.2025 14:00 - Ömer Can Assistant: buyrun
+24.05.2025 04:59 - +90 501 131 94 01: Bu mesaj silindi
+24.05.2025 05:50 - +1 (503) 550-6327: Bu mesaj silindi
+24.05.2025 05:59 - +90 536 817 24 31: Ders başladı mı? Link atar mısınız?
+24.05.2025 05:59 - +1 (310) 954-6406: Hemen şimdi bu Zoom toplantısına bekleniyorsunuz.
+
+https://unm.zoom.us/j/95134929211?pwd=sXIDrVhQH639HhVHlcrGEYaPYXygfh.1
+24.05.2025 09:07 - Ömer Can Assistant: https://shorturl.at/TlVhc
+
+39. grup kayıt formu
+24.05.2025 10:36 - Ömer Can Assistant: from TTS.api import TTS
+import os
+
+# TTS modeli yükleme
+tts_model = TTS(model_name="tts_models/multilingual/multi-dataset/xtts_v2", gpu=True, progress_bar=False)
+
+# Base directory ayarı
+base_dir = os.path.abspath(os.path.dirname(__file__))
+
+# Speaker wav yolu
+speaker_wav_path = os.path.join(base_dir, "sercan_bey.wav")  # Kendi ses dosyan
+output_audio_path = os.path.join(base_dir, "output.wav")  # Çıkış dosyası
+
+# Speaker dosyasını kontrol et
+if not os.path.isfile(speaker_wav_path):
+    raise FileNotFoundError(f"Speaker file not found: {speaker_wav_path}")
+
+# Ses sentezleme fonksiyonu
+def synthesize_speech(response_text):
+    """
+    Verilen metni sesi çıkararak bir dosyada kaydeder.
+    """
+    print(f"Synthesizing speech for: {response_text}")
+    tts_model.tts_to_file(
+        text=response_text,
+        file_path=output_audio_path,
+        language="tr",
+        speaker_wav=speaker_wav_path,
+        split_sentences=False
+    )
+    print(f"Audio saved to: {output_audio_path}")
+    return output_audio_path
+
+# Örnek kullanım
+if __name__ == "__main__":
+    text = "Dünyamız her geçen gün değişiyor."
+    synthesize_speech(text)
+24.05.2025 11:58 - +90 501 131 94 01: Hocam hugging face de çalıştıracağımız dosya pkl mi olması lazım yoksa csv de olur mu
+24.05.2025 12:00 - Ömer Can Assistant: Csv dosyasi model değil
+24.05.2025 12:00 - Ömer Can Assistant: Egittimiz modeli kullanıyoruz
+24.05.2025 12:00 - Ömer Can Assistant: pkl olarak kayıt edebiliyoruz onu
+24.05.2025 12:03 - +90 501 131 94 01: Yani csv dosyası + kodlama kisminda eğittiğimiz kodu yüklemiş olsak olmaz yani
+24.05.2025 14:15 - +90 536 817 24 31: https://x.com/Hesamation/status/1919106269912138019?t=xIvEAwzvoxNka0lKJvmnlA&s=08
+24.05.2025 19:37 - +90 546 970 79 68: İyi akşamlar asistan hocalarımızdan müsait olan varmı
+24.05.2025 19:39 - +90 542 286 11 32: Musaitim
+24.05.2025 20:16 - +90 501 131 94 01: null
+24.05.2025 20:16 - +90 501 131 94 01: <Medya dahil edilmedi>
+24.05.2025 20:16 - +90 501 131 94 01: <Medya dahil edilmedi>
+24.05.2025 20:16 - +90 501 131 94 01: <Medya dahil edilmedi>
+24.05.2025 20:16 - +90 501 131 94 01: <Medya dahil edilmedi>
+24.05.2025 20:16 - +90 501 131 94 01: Böyle bir hata alıyorum hocam
+24.05.2025 20:19 - +90 505 677 44 70: Bugünün ders videosu yayınlandı mı?
+24.05.2025 21:28 - +90 532 613 18 22: Ömer Hocam Merhaba , yarın ki ders için anket açacaktınız , ders olacak mı acaba?
+24.05.2025 23:10 - Ömer Can Assistant: Tts modulunu henüz düzeltemedim icin yarın ders olmayacak. Sorunlar çözüldügunde bir agent dersi daha yapacağız. Tarihi burdan bilgilendireceğim
+24.05.2025 23:13 - Emr7*: Kolay gelsin hocam
+25.05.2025 04:17 - +1 (310) 954-6406: bugunku goreviniz ders saatinde Mobile App Development and Block Chain Videolarini izlemek: https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/m/NzU2MjgxMzg5NzU1/details <Bu mesaj düzenlendi>
+25.05.2025 05:22 - +1 (310) 954-6406: Yapay zeka kampımız Bayramdan hemen sonraki hafta 14 Haziran Cumartesi günü sabah 07:00'de başlayacaktır. Bu gruba katılmasını istediğiniz arkadaşlarınızla bu linki paylaşıp kayıt olmalarını sağlayabilirsiniz: https://shorturl.at/TlVhc <Bu mesaj düzenlendi>
+25.05.2025 16:47 - +1 (310) 954-6406: Görüş ve Önerileriniz ödevinizi bugün göndermeyi unutmayınız https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/sa/NzU2MjgxMzg5NzQ0/details
+26.05.2025 17:08 - ‎~ Yunus Emre Tokdemir kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+26.05.2025 19:00 - GS: Bu mesajı sildiniz
+26.05.2025 19:00 - GS: Bu mesajı sildiniz
+26.05.2025 19:17 - GS: asistan arkadaslardan müsait olan varmi?
+26.05.2025 19:37 - +90 542 286 11 32: Musaitim
+27.05.2025 18:45 - +1 (310) 954-6406: https://www.karar.com/yazarlar/zafer-acar/dunya-gunu-ve-arsimet-9991
+27.05.2025 18:59 - GS: hocam hic bilmedigim bir dünyaya kodlama isine sizinle giris yaptim. oturdugum yerde kafamda kodlar dolasiyor,(hala ne yaptigimi bilmiyorum ama). rüyamda bile kod yazar oldum. bir gün bende rüyadan buldum buldum diye uyanmazsam iyidir.😊
+27.05.2025 19:30 - GS: müsait asistan arkadas varmi?
+27.05.2025 19:44 - +90 542 286 11 32: müsaitim
+27.05.2025 20:29 - ‎+1 (424) 522-8131 kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+28.05.2025 13:15 - +90 537 345 28 72: Herkese merhaba arkadaşlar. 
+Bir hatırlatma olarak söylemek istiyorum, lütfen ödemelerinizi ve taksitlerinizi zamanında yapmayı unutmayınız.
+28.05.2025 13:16 - +90 537 345 28 72: Bir diğer hatırlatma da ödevler hakkında.
+28.05.2025 13:16 - +90 537 345 28 72: Biliyorsunuz ki sertifika için bütün projelerin bitmesi gerekiyor. Bu yüzden, başlangıç kısmından itibaren, yüklemediğiniz ya da geri dönüş yapılmış ve düzeltilmesi söylenen projelerinizi ve notebooklarınızı kontrol etmeniz gerekiyor.
+29.05.2025 14:59 - +1 (310) 954-6406: Scale AI – Uzaktan ve Esnek Çalışma Modeliyle Yazılım Uzmanları Arıyor
+Scale AI olarak, yapay zekâ sistemlerini yazılım geliştirme alanında eğitmeye yönelik projelerimizde görev alacak deneyimli yazılım geliştiriciler arıyoruz.
+Projelerimiz kapsamında, yazılım geliştirme tecrübesine sahip uzmanlardan; kod yazımı, kod inceleme, hata ayıklama (debugging) ve yazılım geliştirme pratiklerine ilişkin içerik üretmeleri veya yapay zekâ modelleri tarafından oluşturulan çıktılara teknik geri bildirim sunmaları beklenmektedir.
+Pozisyonla ilgili öne çıkan detaylar:
+Ücretlendirme dolar bazından saatlik olup,  proje kapsamı ve uzmanlık seviyesine göre farklılık gösterebilir.
+Tamamen uzaktan çalışmaya uygundur; katılımcılar çalışma saatlerini kendi programlarına göre belirleyebilir.
+Türkiye’den yapılacak başvurular için mülakat süreci, yerel iş ortağımız Omenta aracılığıyla yürütülmektedir.
+Adaylardan Beklenen Nitelikler:
+Bilgisayar Mühendisliği, Yazılım Mühendisliği, Elektrik-Elektronik Mühendisliği veya benzeri teknik bölümlerde Türkiye’nin seçkin üniversitelerinde eğitim görüyor olmak ya da mezuniyet.
+veya
+Yazılım geliştirme alanında, tercihen üretim ortamında yürütülmüş projelerle desteklenmiş, kanıtlanabilir profesyonel iş tecrübesi.
+İlgili bağlantılar:
+:link: Scale AI Resmî Web Sitesi : https://scale.com/
+:link: Outlier (İş Ortağımız) : https://outlier.ai/
+:memo: Başvuru Formu – Omenta : https://omenta.typeform.com/to/elhgtHRL
+Sorularınız için : recruting@omentallc.com
+30.05.2025 13:10 - +1 (310) 954-6406: https://www.karar.com/yazarlar/zafer-acar/mayis-1919-10205
+30.05.2025 22:00 - +90 505 677 44 70: Yarın ders olacak mı acaba?
+30.05.2025 22:29 - +1 (310) 954-6406: Sinifin streaminde yarin ne yapmaniz gerektigi paylasildi
+30.05.2025 22:37 - +1 (310) 954-6406: Bu haftaki göreviniz Cumartesi günü  PBL1 - BlockChain ve PBL 2 - videolarını izlemek ve gerekli kodları yazmak.
+Pazar günü ise PBL3 ve PBL4 videolarını izlemek ve kendi proje çözümlerinizi PBL videoları ile karşılaştırmak.
+Videoları bulamayanlar  Sınıf Çalışmaları Kısmından 2. Bölümde Lecture Videos Kısmından bulabilir. Gözükmüyorsa devamında view more tıklayabilirler.
+31.05.2025 09:16 - +1 (310) 954-6406: Degerli arkadaslar bugun canli ders yok. Onun yerine Proje cozumlerinin anlatildigi 2 video izleyecekniz ve yarin 2 tane daha izleyeceksniz. Bunlar derslerde verilen projelerin cozumleri. Zoom a baglanan 20 kisi var. Bugun Zoom da canli ders yok. Onun yerine sinifta ders videolari kisminda yayinlanan PBL ile baslayan videolari izleyip proje cozumleri hakkinda fikir olusturacaksiniz. Eger bulamadiysaniz buradan tekrar paylasiyorum PBL 1- https://drive.google.com/file/d/14pWnk4qr_XMNhlLsVqaqlskR01iSyWb9/view?usp=drivesdk
+ve PBL 2 https://drive.google.com/file/d/1aRtiBCGGhHJNiIPUX1b0zsd19kWGHgHr/view?usp=drive_link
+2.06.2025 14:41 - GS: Yardim gerekiyor
+2.06.2025 15:33 - GS: @905466630941  ömer hocam world Military power projesini sizin anlatiminizla dinleyebilirmiyiz? daha önce yapmis oldugunuz gibi bugün veya yarin aksam anlatma imkaniniz varmi?
+2.06.2025 16:42 - Ömer Can Assistant: bugün ve yarın müsait değilim çarşamba günü yapabiliriz
+2.06.2025 17:21 - GS: Hocam carsamba aksami bende isteyim
+3.06.2025 12:36 - GS: cumartesi günü icin Office Hours a katilmak icin link gönderebilirmisiniz. cumartesi ilk ben olmak istiyorum cünkü 1 saat sonra ise basliyacagim
+3.06.2025 12:36 - Ömer Can Assistant: Kurban bayramı olduğu için bu cumartesi olmayacak
+3.06.2025 15:46 - GS: Abdullah höcü nün anlattigi sunumun kaydini bulamadim, gönderebilirmisiniz
+6.06.2025 08:34 - +90 536 395 74 64: <Medya dahil edilmedi>
+6.06.2025 17:18 - +1 (503) 550-6327: Arkadaşlar hepimizin bayramı mübarek olsun, Allah sevdikleriniz ile birlikte sağlıkla huzurla geçirmek nasip etsin. 💐
+6.06.2025 17:40 - GS: Kurban Bayramınız mübarek olsun! Bu bayramda tüm dualarınız ve Kestiğiniz Kurbanlıklar kabul olsun.Sevdikleriniz ile Huzur ve mutluluk dolu nice bayramlar geçirmenizi dilerim. Saygılarımla
+6.06.2025 17:43 - +90 505 915 10 87: Am8n. Cümleten hayırlı bayramlar
+6.06.2025 17:45 - +90 536 468 17 17: Hayırlı bayramlar
+6.06.2025 17:55 - Emr7*: Amin cümlemizin  mübarek olsun insallah .
+6.06.2025 18:10 - +1 (813) 298-9869: Hayirli bayramlar 🌷
+6.06.2025 18:43 - +90 506 025 54 26: Hayırlı bayramlar
+6.06.2025 20:16 - +90 538 496 68 47: Mübarek kurban Bayramınızı tebrik eder hayırlara vesile olmasını dilerim…
+6.06.2025 20:19 - +90 544 804 45 52: Hayırlı bayramlar
+6.06.2025 20:49 - +90 532 613 18 22: Herkese hayırlı bayramlar
+6.06.2025 20:49 - +90 506 658 05 46: Bayramınız mübarek olsun 🤲🏼
+6.06.2025 20:55 - +90 541 872 26 29: Hayırlı bayramlar
+6.06.2025 20:59 - +90 546 970 79 68: Hayırlı bayramlar
+6.06.2025 21:54 - +1 (503) 550-6327: Bu mesaj silindi
+6.06.2025 21:54 - +1 (503) 550-6327: 🤲🏻
+11.06.2025 14:05 - GS: herkese selamlar, umarim herkesin bayrami diledigi gibi gecmistir. gurbette bayram maalesef umut edildigi gecmiyor , yinede sükür diyelim. acizane benim gibi bu iste yeni olanlar icin haddim degil ama bi tavsiye de bulunmak istiyorum. tatil boyunca dersi bastan dinlemeye basladim. ve inanin ki hersey yerine oturuyor. modu düsen arkadaslarimiz olabilir, siddetle tavsiye ediyorum. evet ödevler biraz gecikecek ama tekrar etmeden yaptiginiz ödevlerden bisey anlamakta zor. hepinize kolay gelsin <Bu mesaj düzenlendi>
+11.06.2025 14:10 - GS: Ümidinizi yitirmeyin arkadaslar, mevzu cok derin 😊 ama zafer hoca cok iyi anlatmis, sadece tekrar edin anlayacaksiniz
+11.06.2025 20:28 - +1 (310) 954-6406: https://www.youtube.com/watch?v=ytpTVx_dZ2c
+12.06.2025 09:50 - Ömer Can Assistant: Değerli yapay zeka uzmanı adayları,
+bu hafta cumartesi günü saat 08:00'de proje sunum dersi olacaktır. Sunmak istediğiniz projenize hazırlanarak derste: 
+Seçtiğiniz projeyi nasıl çözdüğünüzü, kodlarınızı ve mantığını anlatarak sunum yapmanız istenmektedir.
+Sunacağınız projenin bir deep learning projesi olması tercihimizdir.
+14 Haziran Cumartesi günü sabah saat 08:00'de bu zoom linkine bekleniyorsunuz:
+https://michigantech.zoom.us/j/89965071157 <Bu mesaj düzenlendi>
+12.06.2025 12:17 - +90 505 915 10 87: Day 14 - MLops - LLM  buraya ödev olrak ne yükleyeceğiz arkadaşlar.
+12.06.2025 12:18 - +90 505 915 10 87: Day 15 - Mobile App Development - Blockchain buraya ödev olrak ne yükleyeceğiz arkadaşlar.
+12.06.2025 13:57 - GS: ‎IMG-20250612-WA0000.jpg (dosya ekli)
+Derste yapilan bütün projelerin olusan dosyalarini yükleyeceksiniz diye biliyorum.
+12.06.2025 13:58 - GS: ‎IMG-20250612-WA0001.jpg (dosya ekli)
+13.06.2025 10:53 - ‎~ Adnan Kalkan kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+14.06.2025 07:15 - +1 (813) 298-9869: Acaba ders iptal mi oldu? Kayit yapilacak mi?
+14.06.2025 07:29 - +1 (813) 298-9869: Bugun iptal oldu diye dusunuyorum, iA yarin ya da daha sonra gorusmek uzere
+14.06.2025 07:34 - Ömer Can Assistant: linkteyiz ders başlıyor
+14.06.2025 07:35 - +90 536 817 24 31: Ömer bey bağlandı.
+14.06.2025 14:54 - +90 505 783 41 16: Hocam geçmiş ödevlerden birini teslim etmeye çalışıyorum ama sunucu tarafından reddedildi diyor
+14.06.2025 14:55 - +90 537 345 28 72: Drive depolaması yüzünden olabilir. Önemli olmayan belgeleri silerseniz düzelecektir
+14.06.2025 14:56 - +90 505 783 41 16: Gmailimin kotası sınırda. o yüzden mi oluyor ? Sadece drive ile mi alakalı
+14.06.2025 14:58 - +90 537 345 28 72: Evet, onunla da alakalı.
+14.06.2025 14:58 - +90 537 345 28 72: Toplam depolama alanını etkiler.
+14.06.2025 14:59 - +90 505 783 41 16: Tmm teşekkür ederim tuba hanım
+14.06.2025 14:59 - +90 537 345 28 72: Rica ederim.
+15.06.2025 04:10 - +1 (310) 954-6406: Yapay zeka filmi. Bu filmde yapay zekayi kotu birseymis gibi anlatmislar. Fakat bazi tanimlar dogru. https://fullhdfilmizlede.net/film-izle/sizi-dinliyor-afraid-izle <Bu mesaj düzenlendi>
+17.06.2025 17:19 - +90 552 379 81 88: Anlatım olacak mı tekrar?
+18.06.2025 11:32 - Ömer Can Assistant: olacak, cumartesi saat 08:00'da
+18.06.2025 11:55 - Ömer Can Assistant: Değerli yapay zeka uzmanı adayları,
+
+Proje sunum dersleri, sadece kendi projelerinizi tanıtmakla kalmayıp, farklı bakış açıları ve yöntemlerle diğer projelerin çözümlerini de görme fırsatı sunduğu için sizler adına büyük bir kazanım. Bu süreçte hem öğrenme hem de ilham alma şansı elde ediyorsunuz.
+
+Lütfen aşağıdaki bağlantıdaki tabloyu doldurarak sunum yapmak istediğiniz projeyi ve saati belirtiniz:
+👉 https://tinyurl.com/ux7ty2tk
+
+Tablonun boş kalması durumunda, sunum yapacak kişileri ve projeleri biz belirleyeceğiz. Unutmayın, sertifika alabilmek için en az bir kez sunum yapmanız gerekmektedir.
+
+İyi günler dilerim.
+18.06.2025 17:23 - Ömer Can Assistant: cumartesi dersten sonra regression final project ödevinde yapmanız gereken ev verilerini web scraping etme kısmını birlikte çözeceğiz.
+19.06.2025 01:22 - +1 (503) 550-6327: Bu mesaj silindi
+19.06.2025 09:45 - Ömer Can Assistant: Saat   	/         İsim Soyisim	                     /             Sunulacak Proje
+08:00 - 08:15 /	Hilal Can Ekiz /	ANN -  DEEP Learning - Concrete Compressive Strength - Regression  & Classification
+08:15 - 08:30 /	Ali Yaşar Şahin	/ Concrete Project
+08:30 - 08:45 /	birgul acar  /	Laptop price predictions
+08:45 - 09:00 /	İbrahim Terzi /	NLP Sentiment Analysis for Bacchanal Buffet
+09:00 - 09:15 /	Yunus Emre Tokdemir /	Capstone Project
+09:15 - 09:30 /	Mehmet Emre Kızılkaya /	Customer Segmentation - Clustering
+09:30 - 09:45 /	Mahmut Talha küçüksarı  /	solve Titanic Deeplearning 
+09:45 - 10:00 /	Gülfem Kızıltan /	Loan Prediciton - Classification
+
+cumartesi günü sunum yapacak arkadaşlarımız ve projeleri <Bu mesaj düzenlendi>
+19.06.2025 10:18 - +90 536 817 24 31: Hocam haftasonu yks var. saat 09.00 a kadar yapsak bu hafta için. arkadaşlara uyarsa.
+19.06.2025 10:18 - Ömer Can Assistant: Kaydını paylaşacağız
+20.06.2025 05:49 - +90 536 817 24 31: Hocam geçen hafta maleria çözümünün kaydı paylaşıldı mi acaba bulamadım?
+20.06.2025 05:50 - +90 536 817 24 31: Bu arada PBL 6 ile PBL 7 aynı video paylaşılmış.
+20.06.2025 13:23 - GS: PBL 8 de anlatilan amazon.csv dosyasini nerden alabilirim?
+21.06.2025 06:12 - +90 536 817 24 31: Katılamıyorum. Kayıt almayı unutmazsak çok sevinirim.
+21.06.2025 06:58 - Ömer Can Assistant: https://michigantech.zoom.us/j/89965071157
+22.06.2025 07:16 - +1 (503) 550-6327: Bu mesaj silindi
+22.06.2025 07:16 - +1 (503) 550-6327: Bu mesaj silindi
+22.06.2025 12:01 - Ömer Can Assistant: Geçen haftaki proje sunum dersinin linki:
+https://michigantech.zoom.us/rec/share/z8HxZ4UdIXzROuXtpWBF_OC_H9N2aq30S0Pw_-8LrYfQkAUAumnltY_CQfJGBr1V.z0O3IHIeBCniP9MS 
+Passcode: 7BkrvM4*
+22.06.2025 12:01 - Ömer Can Assistant: Bu haftanın proje sunum dersi kaydının linki:
+
+https://michigantech.zoom.us/rec/share/5Cs2DhTWEk3unOI4rknfHP4alsQe3o8dMlHjr0xt36fo9SbDDMQv8pHNI6yfYoc7.iJUooh1m6Be6S3qj 
+Passcode: #64nsu5f
+22.06.2025 12:02 - Ömer Can Assistant: Haftaya tekrar proje sunum dersi olacaktır. Sunum yapmayan arkadaşlarımızın haftaya hazırlanmasını bekliyoruz. İyi günler dilerim
+23.06.2025 05:37 - +1 (310) 954-6406: 5 Nisan 2025 Cumartesi günü  başlayan yapay zeka kampımız sona erdi. Bundan sonra görev size düşüyor. Önümüzdeki 3 hafta canlı Zoom derslerinde çözdüğünüz projelerin sunumunu yapacaksınız.Sertifika alabilmek için an az bir proje sunumu yapmış olmanız gerekmektedir. Ders notları, projeler ve Kaggle yarışmalarını çözüp sisteme yüklemeniz veya Github Profilinize yükleyip linki bizimle paylaşmanız gerekmektedir.
+Sertifika alabilmeniz için yaklaşık 70 gününüz var ve en son tarih 30 Ağustos 2025 Cumartesi'dir. Bu tarihten sonra asistanlarımızın görev süreleri dolmuş olacağı için ödev ve projelerinize not verilmeyecek dolayısı ile sertifika alamayacaksınız. 70 gün size uzun gelebilir. 15 günlük ders videolarınızı izleyip sisteme yüklemeyen çok kişi var. Lütfen ders videolarını bir an önce bitirip proje çözümlerine başlayınız. Çözeceğiniz projeler ve ders notlarını hesaba katarsak bugünden çalışmaya başmanız gerekmektedir. 
+
+30 Ağustos 2025 projelerinizi teslim etmek için son tarih olup erteleme veya uzatma olmayacaktır. No mercy will be shown on the Judgement Day.
+23.06.2025 10:58 - +90 537 345 28 72: Herkese merhaba arkadaşlar. Bu ay için belirlenen taksit ve ödemelerinizi zamanında yapmayı unutmayalım, lütfen. İyi günler dilerim.
+25.06.2025 14:14 - GS: selam , müsait olan bir asistan arkadasimiz varmi
+26.06.2025 01:56 - +90 501 131 94 01: Bu mesaj silindi
+26.06.2025 16:06 - Emr7*: <Medya dahil edilmedi>
+26.06.2025 16:06 - Emr7*: Arkadaş lar söyle bi hata alıyorum. Malaria dersi yaparken . 
+Veri ler var tabelada ama boş diye bi hata geliyor
+26.06.2025 16:13 - +90 543 810 15 50: Malaria veri dosyasında bi kaç tane boş veri vardı diye hatırlıyorum , bi tane bile olsa hata veriyor
+26.06.2025 16:39 - Emr7*: resimlerde mi hata ?  dosyayı okutuyorum zaten olanı işleme geçmesi lazım değil mi ? 
+Isnullsum dulu diyor .
+26.06.2025 16:41 - +90 543 810 15 50: Ben yüklenemeyen görüntüyü atlasın diye bi kod eklemiştim bi kac tane resmi yüklenemedi diye atladı geri kalanları çalıştırmıştı
+26.06.2025 16:42 - Ömer Can Assistant: klasörde resim harici bir dosya var ve onu resize edemiyor o yüzden hata veriyor
+26.06.2025 16:42 - Ömer Can Assistant: klasördeki o dosyaları bulup silebilirsiniz veya kısıtlama koyabilirsiniz uzantısı jpeg jpg png olanları işleme koyması için
+26.06.2025 17:54 - Ömer Can Assistant: Katılmak isteyenler için yapay zeka yarışması:
+
+https://www.linkedin.com/posts/btk-akademi_hackathon2025-activity-7343915527200735232-a_Iy?utm_source=share&utm_medium=member_android&rcm=ACoAAESfOIIBSdqG1u4m5pjk4stFu7nql1a5ZHY
+26.06.2025 18:10 - Emr7*: Evet vardı thumbs.db ama silmiştim yine aynen. muhtemelen calişmayan resmi atlasın diye codu denemem lazım
+26.06.2025 20:52 - +90 501 131 94 01: https://huggingface.co/spaces/HarunDemircioglu11/Indian_Bird_Classification
+26.06.2025 20:52 - +90 501 131 94 01: arkadaslar ogrenmek istediginiz kus turu varsa deneyeblirisiniz
+28.06.2025 06:58 - Ömer Can Assistant: proje sunum dersi için şimdi bu linke bekleniyorsunuz:
+https://michigantech.zoom.us/j/89965071157
+29.06.2025 13:58 - GS: Bu haftanın proje sunum dersi kaydının linki:
+
+https://michigantech.zoom.us/rec/share/5Cs2DhTWEk3unOI4rknfHP4alsQe3o8dMlHjr0xt36fo9SbDDMQv8pHNI6yfYoc7.iJUooh1m6Be6S3qj 
+Passcode: #64nsu5f
+
+arkadaslar bu derste atilan kodlar bende saglikli calismadi, rica etsem calistirabilen bir arkadas kodlari  gönderebilirmi..
+1.07.2025 10:20 - GS: fdai@hawaii.edu diye bir adresten email alan oldumu?
+1.07.2025 10:21 - +90 539 434 60 35: Ben direk fei dai den aldım
+1.07.2025 10:22 - GS: evet aynisii, emailin iceriginde fei dai yaziyor zaten
+1.07.2025 10:22 - +90 539 434 60 35: Gruba girdiniz mi
+1.07.2025 10:22 - GS: ne grubu?
+1.07.2025 10:22 - GS: discord?
+1.07.2025 10:22 - +90 539 434 60 35: İntrotoastro2025
+1.07.2025 10:23 - +90 539 434 60 35: Bana gönderilen mesajda bir grup olacağı ve çeşitli şeylerin oradan gönderileceği yazıyordu
+1.07.2025 10:23 - +90 539 434 60 35: Bana geldi ama spam a düştü isterseniz spam kutunuzu bir kontrol edin
+1.07.2025 10:24 - GS: bakayim
+1.07.2025 12:58 - ‎Emr7* kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+1.07.2025 20:03 - +90 501 131 94 01: null
+1.07.2025 20:24 - +90 536 817 24 31: Ben giremiyorum bekletiyor beni
+1.07.2025 20:24 - +90 539 434 60 35: Bekleme odasına attı zoom fee dai hoca al derse girebileceğiz
+1.07.2025 20:25 - GS: dersler kayit edilecekmis, daha sonra dinlemek isteyenler icin
+1.07.2025 20:25 - +90 536 817 24 31: İlk gün bi canlı katılmak istemiştim aslında.
+1.07.2025 20:25 - GS: suanda Linux ta nasil kurulum yapilacagini anlatiyor
+1.07.2025 20:26 - +90 536 817 24 31: Niye giremiyoruz ki acaba?
+1.07.2025 20:26 - GS: bilemiyorum
+1.07.2025 20:26 - +90 539 434 60 35: Toplantı odasını ona göre oluşturmuş
+1.07.2025 20:27 - +90 539 434 60 35: Katılımcılar linkten istek atıyor o kabul ediyor
+1.07.2025 20:27 - +90 539 434 60 35: Bizim derslerde oda yoktu direk bağlanıyorduk
+1.07.2025 20:27 - GS: toplanti odasi falan görmüyor ben suanda 228 kisi var zoom da
+1.07.2025 20:27 - +90 539 434 60 35: Şuan siz zaten toplantı odasının içindesiniz 228 kişiyle
+1.07.2025 20:28 - +90 539 434 60 35: Bizim o odaya girmemiz için hocanın izin vermesi gerekiyor
+1.07.2025 20:29 - GS: yazdim kabul etmesi icin
+1.07.2025 20:29 - +90 539 434 60 35: Çok teşekkürler
+3.07.2025 05:16 - +1 (813) 298-9869: 19 saatlik Unix dersini mi tamamliyoruz ilk hafta odevlerden biri olarak Intro2Astro dersinde? 😅
+3.07.2025 12:16 - +90 537 345 28 72: Temmuz Ayı Yapay Zeka Kampımıza katılmasını istediğiniz arkadaşlarınızla bu linki paylaşabilirsiniz: Başvuru formu: https://tinyurl.com/ypstk8vu
+3.07.2025 16:32 - +1 (813) 298-9869: yalnizca Carpentry, Workbench iptal
+5.07.2025 01:42 - Ömer Can Assistant: proje sunum dersi için saat 08:00 da bu linke  bekleniyorsunuz:
+https://michigantech.zoom.us/j/89965071157
+6.07.2025 16:11 - GS: Bu mesajı sildiniz
+7.07.2025 10:13 - +90 552 379 81 88: Beautiful soup ile de selenium ile de emlak sitelerinin html ine erişemedim 403 veriyor header yazdığım halde
+7.07.2025 10:15 - Ömer Can Assistant: videosunu çekmiştik
+7.07.2025 10:16 - Ömer Can Assistant: onu izleyerek denediniz mi
+7.07.2025 11:41 - +90 552 379 81 88: Yani denedim ama bir daha bakayım
+8.07.2025 06:42 - +1 (503) 550-6327: Bu mesaj silindi
+8.07.2025 06:42 - +1 (503) 550-6327: ‎IMG-20250708-WA0000.jpg (dosya ekli)
+Ömer hocam ben bu proje üzerinde çalışıyorum da  anlamadığım bazı şeyler var sırayla yazayım
+1. Datayı okuyunca csv  file dan zaten satanın içinde bütün sonradan oluşturmamuz istenen tablolar var yanı customers, products, orders var hatta gözden mi kaçmış bilemiyorum ama birde order_item tablosu var ki buda products ve orders tablolarını bağlantısını sağlayan tablo. 
+2. Oluşturduğumuz dataframe den 3 tane dayaframe oluştur bunları sqlite database yaz denilmiş sonrada tekrar okuyup  bunları merge etmemiz istenmiş. Ben mi yanlış anlıyorum burda benim kaçırdığım birşey var ama anlayamadım. Yani önce ayrı dataframelere ayır sonra dayabase yaz, tekrar ayrı ayrı oku ve Merge  denilmiş.
+3. ⁠order ve product table order_item  table ile bağlantı kuruluyor bundaki order_item.product_id olmadan merge etmesi olmuyor gibi.
+8.07.2025 06:44 - +1 (503) 550-6327: ‎IMG-20250708-WA0001.jpg (dosya ekli)
+Mesela burdada Order_items.parent  aslında Order tablosunun primary key yada özel tanımlayıcı numarası Order_id . Hemen sağ taraftaki  de Product tablosunun bağlantısını kuran foreign key Order_item. Product_id .
+8.07.2025 14:37 - Ömer Can Assistant: tüm datayı kullanamazsınız zaten işinize yarayacak sütunları seçmelisiniz hedefiniz için
+8.07.2025 14:37 - Ömer Can Assistant: datayı ayırıp sqlite ile kayıt edip tekrar birleştirme işlemi sqlite ı öğrenmeniz için konulmuş bir görev
+8.07.2025 18:50 - +1 (503) 550-6327: Bende myle tahmin ettim ama… acaba yanlış mı anladım demeden geçemedim. Çok teşekkürler👍🏻
+8.07.2025 21:11 - +1 (813) 298-9869: Intro2Astro 2. Hafta odevleri icin biraz yardim alabilir miyiz?
+9.07.2025 12:06 - +90 542 286 11 32: Merhaba bu aksam 21:00 da Astro odevleriyle ilgili meeting yapabiliriz, katilmak isteyen olursa link paylaşacağım.
+9.07.2025 12:07 - +90 537 345 28 72: Ben grup oluşturacağım bununla ilgili Saliha Hanım.
+9.07.2025 12:08 - +90 537 345 28 72: Bir de zoom linki oluşturacağım.
+9.07.2025 12:08 - +90 542 286 11 32: Tamam hocam, teşekkür ederim
+9.07.2025 12:08 - +90 537 345 28 72: Oradan, diğer gruplarla beraber yapılırsa daha iyi olacaktır
+9.07.2025 12:08 - GS: Meeting yaparsaniz lütfen kayit alirmisiniz. O saatte calisiyor olacagim
+9.07.2025 12:14 - +90 537 345 28 72: Intro2Astro Stajına katılan arkadaşlar bu gruba gelebilir. Açıklamalar ve sorularınız için yayın yapılacaktır. 
+https://chat.whatsapp.com/FlXKUnIeulW1oCRGVH3dgC?mode=r_c
+9.07.2025 12:33 - Emr7*: Arkadaslar Hugging face gördügümüz dersin kayiti nerde acaba bilen var mi ? yüklemede sürekli hata alıyorum .
+9.07.2025 12:34 - GS: ‎IMG-20250709-WA0000.jpg (dosya ekli)
+https://drive.google.com/file/d/1_dDgRl1OGM10jwXGZKJ5wzhmMhnXHOWj/view
+9.07.2025 12:35 - GS: 3:39 dan itibaren anlatiliyor
+9.07.2025 13:49 - Emr7*: Teşekkürler
+9.07.2025 15:27 - +90 537 345 28 72: Bu akşam 21.00'da yayın olacaktır. Henüz katılmayan arkadaşlar, duyurular için lütfen gruba katılın.
+10.07.2025 04:47 - +1 (864) 867-9417: Kaggle'dan kaç ödevi çözmemiz gerekiyor? Vede bu haftanın dersi için sunum zamanına nereden kayıt yaptırabiliriz, bir excel var mı? <Bu mesaj düzenlendi>
+10.07.2025 10:49 - Ömer Can Assistant: 20 yarışmaya katılacaksınız kaggle dan https://classroom.google.com/c/NzU2MjgxMzg5NjQ2/a/NzU2MjgxMzg5NzQx/details
+10.07.2025 10:49 - Ömer Can Assistant: bu ödevde anlatılıyor
+10.07.2025 10:54 - Ömer Can Assistant: tr saati ile cumartesi 08:30 da link paylaşacağız derse katılmanız yeterli
+12.07.2025 05:50 - +90 536 817 24 31: Ben de sunum yapmayı planlıyorum bugün.
+12.07.2025 06:14 - GS: Bende bugün sunum yapmak istiyorum ama isten eve simdi geldim gözlerim kapaniyor
+12.07.2025 06:15 - +1 (864) 867-9417: Saat kacta ders basliyor?
+12.07.2025 06:15 - Ömer Can Assistant: .
+12.07.2025 07:40 - Ömer Can Assistant: Başlıyoruz
+12.07.2025 07:43 - +90 536 817 24 31: link paylaşabilir misniz ?
+12.07.2025 07:44 - Ömer Can Assistant: https://michigantech.zoom.us/j/89965071157
+12.07.2025 09:50 - +1 (503) 550-6327: Ben bugün katılamadım Türkiyeye yola çıktım😇
+12.07.2025 10:49 - Emr7*: Hayirli yolculuklar
+12.07.2025 10:52 - +1 (503) 550-6327: Teşekkür ederim
+15.07.2025 12:31 - +90 537 345 28 72: Merhaba.
+    Yapay Zeka Kampı olarak artık sosyal medyadayız. Gelişmelerden haberdar olmak ve bize destek vermek için sosyal medya hesaplarımızı takip edebilirsiniz.
+
+📌 Instagram: https://www.instagram.com/yapayzekaacademy?igsh=em42czZwZGZ1ZDV0
+
+📌 Twitter: https://x.com/AI_Bootcamps
+16.07.2025 16:27 - Emr7*: Arkadas lar kolay gelsin . 
+
+Kaggle de ilk projemi yapıyorum .sonuçları (modeli) alamıyorum kayıt lar  nerde oluyor aceba bilen var mi ?
+16.07.2025 19:38 - +90 506 658 05 46: Modeli kaydettiyseniz notebook dosyası Ile aynı klasörde yer alması gerekir
+16.07.2025 21:58 - Emr7*: Sagolun . Sağ tarafta bir pencere daha oluyormuş ki bende saklı idi . . 
+Bilmeyenlere faydaları olur inşallah
+18.07.2025 11:16 - +1 (310) 954-6406: We are hiring now executive secretary in the commercial Consul office at Egypt General Consulate in Istanbul. If any body in your network is capable and fit the job conditions please ask him to contact me directly and send me his C.V. To this WhatsApp number :
+00905327314013
+
+————
+Job qualifications:
+- Turkish citizens only ( male or female ) .
+- ⁠Business background is A MUST . 
+- ⁠reasonable experience in working in export , import , business administration, marketing , planing or any sector or field related to trade and investment is an asset and advantage.
+- ⁠living in Istanbul .
+- ⁠No short pregnancy plans for female ( at least after 2 years ) .
+- ⁠English - Turkish spoken fluently is A MUST . Arabic language in addition is more advantage .
+- ⁠PR skills - communication skills - research skills are very important assets to the candidates .
+——
+Job Description :
+-  The main mandate for the commercial Consul office is to attract Turkish investments to Egypt and to assist Egyptian exporters to find more export opportunities in Turkey . 
+- the Potential candidate should have the research skills and PR and communications skills that help the office to achieve this mandate . Especially that this office receive regularly a high ranking visits from Egyptian officials and business communities who ask our office to arrange a high ranking business meetings B2B . So PR and communications skills is very necessary to secure organizing this kind of visits and business meetings .
+- ⁠moreover the candidate will work on daily basis to answer the daily requests comes from the business community in Egypt to ( offer lists of importers - basic market research and market info - dealing with some commercial claims ) .
+———
+Job advantages:
+- Good salary in USD .
+- ⁠social insurance .
+- ⁠flexible working hours ( 9am -4pm) .
+- ⁠benefiting from all Turkish and Egyptian National holidays .
+- ⁠offering a free parking place .
+- the job is available from October 1st . 
+Best Regards
+18.07.2025 20:47 - ‎~ Ali kişisiyle aranızdaki güvenlik kodu değişti. Daha fazla bilgi edinmek için dokunun.
+18.07.2025 23:16 - Ömer Can Assistant: Cumartesi yapılacak olan proje sunum dersi pazar sabah saat 7 ye alınmıştır, bilginize
+19.07.2025 01:01 - +1 (864) 867-9417: Hocam neden google classroomda lecture video lari acilmiyor?
+19.07.2025 01:01 - +1 (864) 867-9417: "There was a problem playing this video" error veriyor linke tiklinca
+19.07.2025 07:48 - +90 537 345 28 72: Problem görünmüyor aslında. Hangi videoyu açamıyorsunuz?
+19.07.2025 09:32 - +90 552 379 81 88: Farklı e posta ile denemişsinizdir
+19.07.2025 13:56 - +1 (864) 867-9417: Yani PBL 8 calismiyor benim icin
+19.07.2025 13:59 - +90 537 345 28 72: Sadece o video mu ?
+19.07.2025 14:00 - +90 537 345 28 72: https://drive.google.com/file/d/16kkT3ADW7V5PjSoneeePPVH2ndYrLCyE/view?usp=drive_link
+19.07.2025 14:03 - +1 (864) 867-9417: PBL 6, PBL 5, PBL 4, PBL 3, Day 14 ve Day 15 videolari
+19.07.2025 14:04 - +90 537 345 28 72: Size ayrı atıyorum o zaman.
+20.07.2025 05:57 - Ömer Can Assistant: proje sunum dersi için 
+https://michigantech.zoom.us/j/89965071157
+bu linke bekleniyorsunuz.
